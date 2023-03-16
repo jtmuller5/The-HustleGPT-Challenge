@@ -45,6 +45,7 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 | 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@soberbeachclub](https://twitter.com/soberbeachclub) |
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) |
 | 💄 | [GreenCharmBeauty](https://GreenCharmBeauty.com) | Your Guide to Eco-Friendly Beauty and Personal Care | ? |
+| ☕️ | [StressLess Naturals](https://twitter.com/YashasviVashis1/status/1636416094780129281) | Find calm and balance in your daily life | [@YashasviVashis1](https://twitter.com/YashasviVashis1) |
 
 
 
