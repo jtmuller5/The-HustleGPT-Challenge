@@ -39,6 +39,7 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) |
 |  🛠️  | [aitoolsdigest](https://twitter.com/Peter_Machowski/status/1636326789051039745) | AI Products Affiliate website | [@Peter_Machowski](https://twitter.com/Peter_Machowski) |
 |  ⚙️  | [EntrepreneurGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) |
+|  👤 | [neckflexpro](https://twitter.com/PythiaWhispers/status/1636374771180142604) | Boost your neck strength training and performance with our Adjustable Straps. | [@PythiaWhispers](https://twitter.com/PythiaWhispers) |
 
 ## 🐤 Twitter List
 Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20).
