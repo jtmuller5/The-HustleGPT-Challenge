@@ -32,4 +32,4 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) |
 |  🛠️  | [aitoolsdigest](https://twitter.com/Peter_Machowski/status/1636326789051039745) | AI Products Affiliate website | [@Peter_Machowski](https://twitter.com/Peter_Machowski) |
-|  ⚙️  | [EntreprenerGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) |
+|  ⚙️  | [EntrepreneurGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) |
