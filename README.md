@@ -46,6 +46,8 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) |
 | 💄 | [GreenCharmBeauty](https://GreenCharmBeauty.com) | Your Guide to Eco-Friendly Beauty and Personal Care | ? |
 | ☕️ | [StressLess Naturals](https://twitter.com/YashasviVashis1/status/1636416094780129281) | Find calm and balance in your daily life | [@YashasviVashis1](https://twitter.com/YashasviVashis1) |
+| 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) |
+
 
 
 
