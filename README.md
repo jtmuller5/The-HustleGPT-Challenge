@@ -49,6 +49,8 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) |
 | ✨ | [HarmonAIze Project](https://twitter.com/HarmonAIzeGPT/status/1636449283003101186) | Crafting innovative, sustainable solutions for common well-being & global positive impact through AI-human collaboration. | [@HarmonAIzeGPT](https://twitter.com/HarmonAIzeGPT) |
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |
+| 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |
+
 
 
 ## 🐤 Twitter List
