@@ -11,11 +11,21 @@ Don't forget to:
 
 On March 14th, 2023, OpenAI announced their newest large language model (LLM), [GPT-4](https://openai.com/research/gpt-4). Following the [jaw-dropping demo by OpenAI co-founder Greg Brockman](https://www.youtube.com/watch?v=outcGtbnMuQ), the model took the internet by storm. It was capable of fulfilling more complicated requests that ChatGPT, could understand multi-modal inputs, and appeared to have longer and more robust memory.
 
-Then, on March 15th, 2023, @jacksonfall on Twitter began a movement by prompting GPT-4 to become HustleGPT:
+Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) on Twitter began a movement by prompting GPT-4 to become HustleGPT:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I gave GPT-4 a budget of $100 and told it to make as much money as possible. <br><br>I&#39;m acting as its human liaison, buying anything it says to. <br><br>Do you think it&#39;ll be able to make smart investments and build an online business? <br><br>Follow along 👀 <a href="https://t.co/zu4nvgibiK">pic.twitter.com/zu4nvgibiK</a></p>&mdash; jackson greathouse fall (@jacksonfall) <a href="https://twitter.com/jacksonfall/status/1636107218859745286?ref_src=twsrc%5Etfw">March 15, 2023</a></blockquote>
+
+![image](https://user-images.githubusercontent.com/47997351/225659396-701e93a1-beb5-48c4-88e0-fab4fba7f483.png)
 
 The goal of the HustleGPT challenge is to turn $100 into as much money as possible in the shortest amount of time possible by partnering with GPT-4 to varying degrees.
 
 ## The Prompt
 You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
+
+## 💸 Endeavors
+|  | Name | Description | Co-Founder |
+| -- | ---| ------ | ------ |
+|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |
+|  ♻️ | [Green Gadget Guru](https://twitter.com/jacksonfall/status/1636107218859745286) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|
+|  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |
+|  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |
+|  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | ? | ? |
