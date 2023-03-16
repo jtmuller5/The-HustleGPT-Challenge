@@ -43,6 +43,7 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) |
 | ✂️ | [SnippetsSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) |
 | 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@soberbeachclub](https://twitter.com/soberbeachclub) |
+| 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUFCDad](https://twitter.com/TheUCFDad) |
 
 
 
