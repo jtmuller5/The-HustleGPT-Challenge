@@ -19,7 +19,7 @@ Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) on Tw
 The goal of the HustleGPT challenge is to turn $100 into as much money as possible in the shortest amount of time possible by partnering with GPT-4 to varying degrees.
 
 ## The Prompt
-You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
+>You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
 
 ## Our Sponsors
 | [WeaveBrowser](https://play.google.com/store/apps/details?id=com.mullr.weave_browser) <br/> | [ChatCode Tutor](https://joemuller.gumroad.com/l/kylqvn) <br/> | [Abi's Recipes](https://play.google.com/store/apps/details?id=com.mullr.abis_recipes) <br/> | 
