@@ -51,7 +51,5 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |
 
 
-https://twitter.com/andrew_nyu/status/1636450373308219393
-
 ## 🐤 Twitter List
 Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20).
