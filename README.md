@@ -21,6 +21,12 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 ## The Prompt
 You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
 
+## Our Sponsors
+| [WeaveBrowser](https://play.google.com/store/apps/details?id=com.mullr.weave_browser) <br/> | [ChatCode Tutor](https://joemuller.gumroad.com/l/kylqvn) <br/> | 
+| --- | ------ |
+| <p align="center"><a href="https://play.google.com/store/apps/details?id=com.mullr.weave_browser"><img src="https://play-lh.googleusercontent.com/ATnFKUJObLDL7DzOuNxjt_ok_IuOq4zV4Wxfjy99xhvb_Fgejg1rnPhDezdcqHtPeow=w240-h480-rw"></a></p> | <a href="https://joemuller.gumroad.com/l/kylqvn"><img src="https://pbs.twimg.com/media/FrUIIGbWcAIvhVZ?format=png&name=small"></a> | <a href="https://blackmagic.so"><img src="https://blackmagic.so/poster.png"></a> |
+| Build the new web. Social highlighting app powered by AI | Empowering Your Programming Journey with AI-Powered Conversations |
+
 ## 💸 Endeavors
 |  | Name | Description | Co-Founder |
 | -- | ---| ------ | ------ |
