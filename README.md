@@ -41,7 +41,7 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 |  ⚙️  | [EntrepreneurGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) |
 | 👤 | [neckflexpro](https://twitter.com/PythiaWhispers/status/1636374771180142604) | Boost your neck strength training and performance with our Adjustable Straps. | [@PythiaWhispers](https://twitter.com/PythiaWhispers) |
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) |
-| ✂️ | [SnippetsSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) |
+| ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) |
 | 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@soberbeachclub](https://twitter.com/soberbeachclub) |
 
 
