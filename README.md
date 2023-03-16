@@ -29,3 +29,6 @@ You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |
 |  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | ? | ? |
+|  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [visbeek.eth](https://twitter.com/MarkVisbeek) |
+
+
