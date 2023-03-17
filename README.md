@@ -34,7 +34,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 |  ♻️ | [Green Gadget Guru](https://twitter.com/jacksonfall/status/1636107218859745286) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |
 |  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |
-|  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | ? | ? |
+|  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) |
 |  🛠️  | [aitoolsdigest](https://twitter.com/Peter_Machowski/status/1636326789051039745) | AI Products Affiliate website | [@Peter_Machowski](https://twitter.com/Peter_Machowski) |
