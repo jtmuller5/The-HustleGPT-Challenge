@@ -59,6 +59,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | ⚡️ | [AIBoostedHacks](https://twitter.com/AIBoostedHacks/status/1636345966247780353) | Revolutionizing productivity techniques using artificial intelligence | [@AIBoostedHacks](https://twitter.com/AIBoostedHacks) |
 | 🌱 | [Grow Wise](https://twitter.com/ZiggyCrypto/status/1636709893339062272) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) |
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |
+| 🍃 | [Restimuli](https://twitter.com/celue/status/1636721245491191809) | ESG Sustainability is your passport for the future | [@celue](https://twitter.com/celue) |
 
 
 ## 🐤 Twitter List
