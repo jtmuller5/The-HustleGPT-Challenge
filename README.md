@@ -69,4 +69,4 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 
 
 ## 🐤 Twitter List
-Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20).
+Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20). Want to get added to the list? DM or ping me on Twitter (@craigpearce5).
