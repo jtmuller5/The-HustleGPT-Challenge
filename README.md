@@ -65,6 +65,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🖼️ | [Wallscapes Studio](https://twitter.com/KenobiDesigns/status/1636572257874219009) | Dropshipping Home Decor Products | [@KenobiDesigns](https://twitter.com/KenobiDesigns) |
 | 🎛️ | [Sleek Minimalist](https://twitter.com/zalimidis/status/1636756649196261376) | Your go-to for affordable, high-quality minimalist products & gadgets. Simplify life & elevate experiences. | [@zalimidis](https://twitter.com/zalimidis) |
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |
+| 🕹️ | [Gaming Gear](https://twitter.com/HustleGPT_AI/status/1636786769709645824) | Gaming gear and tech affiliate website | [@HustleGPT_AI](https://twitter.com/HustleGPT_AI) |
 
 
 
