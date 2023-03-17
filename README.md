@@ -53,6 +53,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Discover hot sauces, cool merch, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |
 | 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) |
+| 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) |
 
 
 ## 🐤 Twitter List
