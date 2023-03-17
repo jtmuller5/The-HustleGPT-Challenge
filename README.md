@@ -64,7 +64,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) |
 | 🖼️ | [Wallscapes Studio](https://twitter.com/KenobiDesigns/status/1636572257874219009) | Dropshipping Home Decor Products | [@KenobiDesigns](https://twitter.com/KenobiDesigns) |
 | 🎛️ | [Sleek Minimalist](https://twitter.com/zalimidis/status/1636756649196261376) | Your go-to for affordable, high-quality minimalist products & gadgets. Simplify life & elevate experiences. | [@zalimidis](https://twitter.com/zalimidis) |
-| 💯 | [The 100k Homepage]([https://twitter.com/zalimidis/status/1636756649196261376](https://twitter.com/the_ai_lecturer/status/1636787717228105728)) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |
+| 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |
 
 
 
