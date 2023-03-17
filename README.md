@@ -51,7 +51,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |
 | 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Discover hot sauces, cool merch, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |
-
+| 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |
 
 
 ## 🐤 Twitter List
