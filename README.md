@@ -62,6 +62,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🍃 | [Restimuli](https://twitter.com/celue/status/1636721245491191809) | ESG Sustainability is your passport for the future | [@celue](https://twitter.com/celue) |
 | 💻 | [Great Open Source](https://twitter.com/k_minutti/status/1636755099841069059) | Open Source Development: Tools and Technologies for Beginners | [@k_minutti](https://twitter.com/k_minutti) |
 | ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) |
+| 🖼️ | [Wallscapes Studio](https://twitter.com/KenobiDesigns/status/1636572257874219009) | Dropshipping Home Decor Products | [@KenobiDesigns](https://twitter.com/KenobiDesigns) |
 | 🎛️ | [Sleek Minimalist](https://twitter.com/zalimidis/status/1636756649196261376) | Your go-to for affordable, high-quality minimalist products & gadgets. Simplify life & elevate experiences. | [@zalimidis](https://twitter.com/zalimidis) |
 
 
