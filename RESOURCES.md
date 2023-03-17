@@ -19,6 +19,7 @@ Below is a collection of resources that can help you get the most out of your pa
 |  🎨  | [Aitrepreneur](https://www.youtube.com/@Aitrepreneur) | Tutorials on creating AI art |
 |  💬  | [Learn Prompting](https://learnprompting.org/) | General instruction on prompting |
 |  🧑‍💼  | [Prompt Vine](https://www.promptvine.com/) | Prompts to get the bot to act a certain way |
+|  💬  | [promptingguide.ai](https://www.promptingguide.ai/) | Guides on how to efficiently use LLMs |
 
 ## 🧰 Prompting Resources
 
