@@ -69,6 +69,8 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |
 | 🕹️ | [Gaming Gear](https://twitter.com/HustleGPT_AI/status/1636786769709645824) | Gaming gear and tech affiliate website | [@HustleGPT_AI](https://twitter.com/HustleGPT_AI) |
 | 🍹 | [Best Cocktail Bars](https://twitter.com/KCartero/status/1636811098866237444) | Discover the best cocktail bars from across the world | [@KCartero](https://twitter.com/KCartero) |
+| 💪 | [VivoThrive](https://vivothrive.com ) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) |
+
 
 
 ## 🐤 Twitter List
