@@ -31,8 +31,6 @@ Below is a collection of resources that can help you execute on the things Hustl
 |  📝  |  Copy |
 |  📢  |  Advertising |
 
-https://beta.elevenlabs.io/sign-up
-
 > This repo will focus on resources that help you get what you want out of ChatGPT or GPT-4. All resources should be related to prompting
 
 |  | Link | Description |
