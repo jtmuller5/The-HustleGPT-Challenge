@@ -44,7 +44,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) |
 | 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@soberbeachclub](https://twitter.com/soberbeachclub) |
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) |
-| 💄 | [GreenCharmBeauty](https://GreenCharmBeauty.com) | Your Guide to Eco-Friendly Beauty and Personal Care | ? |
+| 🎥 | [WeTube.ai](https://wetube.ai) |Your guide to getting started and growing on Youtube | [@chriswoods2009](https://twitter.com/chriswoods2009) |
 | ☕️ | [StressLess Naturals](https://twitter.com/YashasviVashis1/status/1636416094780129281) | Find calm and balance in your daily life | [@YashasviVashis1](https://twitter.com/YashasviVashis1) |
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) |
 | ✨ | [HarmonAIze Project](https://twitter.com/HarmonAIzeGPT/status/1636449283003101186) | Crafting innovative, sustainable solutions for common well-being & global positive impact through AI-human collaboration. | [@HarmonAIzeGPT](https://twitter.com/HarmonAIzeGPT) |
