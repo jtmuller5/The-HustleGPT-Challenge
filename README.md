@@ -54,7 +54,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |
 | 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) |
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) |
-
+| 🍏 | [Buidler Bites](https://twitter.com/BuidlerBites/status/1636592697015164928) | Fueling web3 natives with curated meal plans, meal replacements & supplements! | [@BuidlerBites](https://twitter.com/BuidlerBites) |
 
 ## 🐤 Twitter List
 Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20).
