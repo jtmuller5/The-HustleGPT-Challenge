@@ -37,5 +37,5 @@ Below is a collection of resources that can help you execute on the things Hustl
 |  | Link | Description |
 | -- | ---| ------ | 
 |  📢  | [Eleven Labs](https://beta.elevenlabs.io/sign-up) | Create synthetic voices |
-|  🔬  | [Google Trends](https://trends.google.com/home)]() | See trending keywords in Google search |
+|  🔬  | [Google Trends](https://trends.google.com/home) | See trending keywords in Google search |
 |  🖌️  | [Midjourney AI](https://www.midjourney.com/home/) | AI Image generation (logos, banners, etc) |
