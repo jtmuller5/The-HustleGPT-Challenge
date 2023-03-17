@@ -52,6 +52,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |
 | 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Discover hot sauces, cool merch, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |
+| 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) |
 
 
 ## 🐤 Twitter List
