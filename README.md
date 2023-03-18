@@ -75,8 +75,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) |
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) |
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) |
-
-
+| 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) |
 
 
 
