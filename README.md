@@ -81,6 +81,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) |
 | 👦 | [PersonalizeMe](https://twitter.com/NavalGujrati/status/1637127360993701890?t=puLFr362SGmNm49cdgHvrw&s=19) |Affiliate marketing for items that can be personalized | [@NavalGujrati](https://twitter.com/NavalGujrati) |
 | 🍸 | [BarBot AI](https://twitter.com/JunaidDawud/status/1637147495267713024) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |
+| 🕸️ | [MSP SEO Synergy](https://twitter.com/MSPSEOSynergy/status/1636457995251974144) | Uniting SEO & MSPs for success | [@MSPSEOSynergy](https://twitter.com/MSPSEOSynergy) |
 
 
 
