@@ -20,6 +20,27 @@ Below is a collection of resources that can help you get the most out of your pa
 |  💬  | [Learn Prompting](https://learnprompting.org/) | General instruction on prompting |
 |  🧑‍💼  | [Prompt Vine](https://www.promptvine.com/) | Prompts to get the bot to act a certain way |
 |  💬  | [promptingguide.ai](https://www.promptingguide.ai/) | Guides on how to efficiently use LLMs |
+|  🔮  | [Prompt Vibes](https://www.promptvibes.com/) | Discover, Learn, and Test Different ChatGPT Prompts |
+|  🖼  | [Prompt Journey](https://promptjourney.app/) | Build MidJourney Prompts |
+|  🏗  | [ePromptly](https://epromptly.com/) | Design, Develop and Publish prompts |
+|  👥  | [DataFit.ai](https://datafit.ai/) | ChatGPT Prompts Community |
+|  📲  | [Promptitude](https://promptitude.io/) | Integrate GPT into your apps |
+|  💡  | [Show GPT](https://showgpt.co/) | Prompts Templates |
+|  📦  | [Promptbox](https://www.promptbox.ai/) | Beautifully organize your prompts |
+|  ✨  | [Awesome](https://github.com/f/awesome-chatgpt-prompts) | Awesome List |
+|  🖥  | [eCommerce Prompts](https://www.ecommerceprompts.com/) | Prompts for the Ultimate eCommerce Marketer |
+|  🔌  | [Notion Cheat Sheet](https://fluttering-zinc-bb1.notion.site/ChatGPT-Prompts-1565ae5022da4eb4adbd15ecec86eff3) | Prompts Cheat Sheet |
+|  🧱  | [Trello of Prompts](https://trello.com/b/4BPkSY1w/100-ai-prompts-resources-prompt-lovers) | Prompts Resources Trello |
+|  💾  | [Prompt Layer](https://promptlayer.com/) | Log OpenAI requests. Search usage history. Track performance. |
+|  🧰  | [Prompt Stacks](https://www.promptstacks.com/) | Community of Prompt Engineering |
+|  📖  | [Saas Prompts](https://saasprompts.com/) | ChatGPT prompts for your SaaS product |
+
+
+
+
+
+
+
 
 ## 🧰 Prompting Resources
 
