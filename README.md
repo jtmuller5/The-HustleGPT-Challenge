@@ -84,6 +84,9 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🕸️ | [MSP SEO Synergy](https://twitter.com/MSPSEOSynergy/status/1636457995251974144) | Uniting SEO & MSPs for success | [@MSPSEOSynergy](https://twitter.com/MSPSEOSynergy) |
 | 🐦 | [Twitter Clone](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) |
+| 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) |
+
+
 
 
 ## 🔥 Follow the Hype
