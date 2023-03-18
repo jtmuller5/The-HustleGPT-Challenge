@@ -34,7 +34,7 @@ Below is a collection of resources that can help you get the most out of your pa
 |  💾  | [Prompt Layer](https://promptlayer.com/) | Log OpenAI requests. Search usage history. Track performance. |
 |  🧰  | [Prompt Stacks](https://www.promptstacks.com/) | Community of Prompt Engineering |
 |  📖  | [Saas Prompts](https://saasprompts.com/) | ChatGPT prompts for your SaaS product |
-
+|  📖  | [ChatGPT Cheatsheet](https://quickref.me/chatgpt) | Copy and Paste ChatGPT prompts |
 
 
 
