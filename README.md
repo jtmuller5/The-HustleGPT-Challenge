@@ -72,6 +72,10 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 💪 | [VivoThrive](https://vivothrive.com) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) |
 | 👕 | [AIronicWear](https://twitter.com/thelazyentrepre/status/1636883704407629824) | Unique and humorous AI-themed Clothing | [@thelazyentrepre](https://twitter.com/thelazyentrepre) |
 | 🧵 | [Sustainable Threads](https://twitter.com/Purplekirbyeth/status/1636619227061948417) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) |
+| 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) |
+| 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) |
+| 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) |
+
 
 
 
