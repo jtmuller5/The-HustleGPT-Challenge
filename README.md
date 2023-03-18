@@ -26,7 +26,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 
 | [HustleGPT Companion Guide]()|[ChatCode Tutor](https://chatcodetutor.gumroad.com/) <br/> | 
 |----- |----- |
-|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/variants/qn7jarezmch1zbylrqmrh5ub1cuy/e62e4bcd3d858e4839b5c2b465bae257f22dc2666e91f438860b8031380a9984" height="500"></a>|<a href="https://chatcodetutor.gumroad.com/"><img src="https://pbs.twimg.com/media/FrUIIGbWcAIvhVZ?format=png&name=small" height="500"></a> |
+|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/variants/qn7jarezmch1zbylrqmrh5ub1cuy/e62e4bcd3d858e4839b5c2b465bae257f22dc2666e91f438860b8031380a9984" height="400"></a>|<a href="https://chatcodetutor.gumroad.com/"><img src="https://pbs.twimg.com/media/FrUIIGbWcAIvhVZ?format=png&name=small" height="400"></a> |
 | Build a business with an AI co-founder| Empowering Your Programming Journey with AI-Powered Conversations |
 
 ## 💸 Endeavors
