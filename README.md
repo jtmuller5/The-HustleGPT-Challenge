@@ -76,6 +76,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) |
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) |
 | 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) |
+| 🌊 | [The Web3 Wave](https://twitter.com/Cryptoniard/status/1636820539850276866) | Web3 Marketing Agency | [@Cryptoniard](https://twitter.com/Cryptoniard) |
 
 
 
