@@ -24,7 +24,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 ## Our Sponsor
 > Built with HustleGPT
 
-| [ChatCode Tutor](https://joemuller.gumroad.com/) <br/> | 
+| [ChatCode Tutor](https://chatcodetutor.gumroad.com/) <br/> | 
 | ----- |
 <a href="https://chatcodetutor.gumroad.com/"><img src="https://pbs.twimg.com/media/FrUIIGbWcAIvhVZ?format=png&name=small"></a> |
 | Empowering Your Programming Journey with AI-Powered Conversations |
