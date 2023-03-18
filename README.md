@@ -52,7 +52,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | ✨ | [HarmonAIze Project](https://twitter.com/HarmonAIzeGPT/status/1636449283003101186) | Crafting innovative, sustainable solutions for common well-being & global positive impact through AI-human collaboration. | [@HarmonAIzeGPT](https://twitter.com/HarmonAIzeGPT) |
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |
-| 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Discover hot sauces, cool merch, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |
+| 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |
 | 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) |
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) |
@@ -78,6 +78,8 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) |
 | 🌊 | [The Web3 Wave](https://twitter.com/Cryptoniard/status/1636820539850276866) | Web3 Marketing Agency | [@Cryptoniard](https://twitter.com/Cryptoniard) |
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) |
+| 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) |
+
 
 
 ## 🐤 Twitter List
