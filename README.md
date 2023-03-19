@@ -129,7 +129,7 @@ Reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter with the follo
 - Tagline
 - Link to product or Twitter thread tracking your HustleGPT venture
 
-You can also create a pull request and add yourself.
+You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
 
 ## 🔥 Follow the Hype
 |Where| What|
