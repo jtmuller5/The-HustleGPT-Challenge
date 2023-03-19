@@ -49,7 +49,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
 |  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) | 🟩 |
-|  ♻️ | [Green Gadget Guru](https://twitter.com/jacksonfall/status/1636107218859745286) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)| 🟩 |
+|  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)| 🟩 |
 | 🌱 | [Grow Wise](https://twitter.com/ZiggyCrypto/status/1636709893339062272) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) | 🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
