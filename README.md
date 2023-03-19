@@ -40,7 +40,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 68
+> Current Total: 69
 
 > Total Money Makers: 5
 
@@ -114,6 +114,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌍 | [SylvanStride](https://twitter.com/rsfreitas/status/1637518178166112256) | Explore the world through AI-generated content| [@rsfreitas](https://twitter.com/rsfreitas) |⬜️ | 
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) |⬜️ | 
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |⬜️ | 
+| 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |⬜️ | 
 
 
 ### Want to join the challenge?
