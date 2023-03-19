@@ -40,7 +40,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 64
+> Current Total: 65
 
 > Total Money Makers: 5
 
@@ -110,6 +110,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📜 | [HustleGPT-Chronicles](https://twitter.com/wallaiin/status/1637381253635928064) | Blog for stories covering AI-driven startups | [@wallaiin](https://twitter.com/wallaiin) |⬜️ | 
 | 🧑‍⚖️ | [THA -  International Trade Law Attorney](https://www.linkedin.com/posts/avomeraydin_yapay-zekan%C4%B1n-s%C3%B6ylediklerini-bire-bir-activity-7043116440471711744-NpRQ?utm_source=share&utm_medium=member_desktop) | Building a platform that will be a bridge from lawyers to company owners | [@omerjpeg](https://twitter.com/omerjpeg) |⬜️ | 
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) |⬜️ | 
+| 🧠 | [ChatGPT Connects](https://twitter.com/chatgptconnects/status/1637465225426522114) | Affordable, pay-per-use access to ChatGPT 4. | [@chatgptconnects](https://twitter.com/chatgptconnects) |⬜️ | 
 
 
 
