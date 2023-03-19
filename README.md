@@ -24,10 +24,10 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 ## Our Sponsors
 > Built with HustleGPT
 
-| [HustleGPT Companion Guide]()|[ChatCode Tutor](https://chatcodetutor.gumroad.com/) <br/> | 
-|----- |----- |
-|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/variants/qn7jarezmch1zbylrqmrh5ub1cuy/e62e4bcd3d858e4839b5c2b465bae257f22dc2666e91f438860b8031380a9984" height="400"></a>|<a href="https://chatcodetutor.gumroad.com/"><img src="https://pbs.twimg.com/media/FrUIIGbWcAIvhVZ?format=png&name=small" height="400"></a> |
-| Build a business with an AI co-founder| Empowering Your Programming Journey with AI-Powered Conversations |
+| [HustleGPT Companion Guide]()|
+|----- |
+|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
+| Build a business with an AI co-founder| 
 
 ## 💸 Endeavors
 If you're participating and have made at least $1 from your hustle, reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter to get verified. 
