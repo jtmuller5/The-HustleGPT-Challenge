@@ -103,6 +103,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌌 | [AI Unbound](https://twitter.com/dreamulatorgame/status/1637436858920566784?s=20) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |⬜️ | 
 | 👧 | [DearAIbby](http://dearaibby.herokuapp.com/) | Get some friendly advice from our AI-powered advice columnist | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🎷 | [VibeCheck](http://vibe-check.herokuapp.com/) | Check the vibe of anyone's texts | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
+| 🏋️ | [FitnessGPT](https://twitter.com/NikunjSardhara3/status/1637396562950205440) | Nutrition planning powered by AI | [@NikunjSardhara3](https://twitter.com/NikunjSardhara3) |⬜️ | 
+
 
 
 ### Want to join the challenge?
