@@ -40,7 +40,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 63
+> Current Total: 64
 
 > Total Money Makers: 5
 
