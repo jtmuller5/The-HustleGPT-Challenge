@@ -13,8 +13,9 @@ On March 14th, 2023, OpenAI announced their newest large language model (LLM), [
 
 Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) on Twitter began a movement by prompting GPT-4 to become HustleGPT:
 
-
-![image](https://user-images.githubusercontent.com/47997351/225659396-701e93a1-beb5-48c4-88e0-fab4fba7f483.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47997351/225659396-701e93a1-beb5-48c4-88e0-fab4fba7f483.png" />
+</p>
 
 The goal of the HustleGPT challenge is to turn $100 into as much money as possible in the shortest amount of time possible by partnering with GPT-4 to varying degrees.
 
