@@ -101,6 +101,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) |⬜️ | 
 | 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) |⬜️ | 
 | 🌌 | [AI Unbound](https://twitter.com/dreamulatorgame/status/1637436858920566784?s=20) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |⬜️ | 
+| 👧 | [DearAIbby](http://dearaibby.herokuapp.com/) | Get some friendly advice from our AI-powered advice columnist | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
+| 🎷 | [VibeCheck](http://vibe-check.herokuapp.com/) | Check the vibe of anyone's texts | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 
 
 ### Want to join the challenge?
