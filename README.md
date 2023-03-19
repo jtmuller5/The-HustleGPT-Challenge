@@ -50,6 +50,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  ♻️ | [Green Gadget Guru](https://twitter.com/jacksonfall/status/1636107218859745286) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)| 🟩 |
 | 🌱 | [Grow Wise](https://twitter.com/ZiggyCrypto/status/1636709893339062272) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) | 🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
+| 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |⬜️ | 
@@ -75,7 +76,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🍏 | [Buidler Bites](https://twitter.com/BuidlerBites/status/1636592697015164928) | Fueling web3 natives with curated meal plans, meal replacements & supplements! | [@BuidlerBites](https://twitter.com/BuidlerBites) |⬜️ | 
 | ⚒️ | [FitLifeForge](https://twitter.com/white_house_eth/status/1636647163999469569) | Forging a Fit Life Journey | [@white_house_eth](https://twitter.com/white_house_eth) |⬜️ | 
 | ⚡️ | [AIBoostedHacks](https://twitter.com/AIBoostedHacks/status/1636345966247780353) | Revolutionizing productivity techniques using artificial intelligence | [@AIBoostedHacks](https://twitter.com/AIBoostedHacks) |⬜️ | 
-| 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |⬜️ | 
 | 🍃 | [Restimuli](https://twitter.com/celue/status/1636721245491191809) | ESG Sustainability is your passport for the future | [@celue](https://twitter.com/celue) |⬜️ | 
 | 💻 | [Great Open Source](https://twitter.com/k_minutti/status/1636755099841069059) | Open Source Development: Tools and Technologies for Beginners | [@k_minutti](https://twitter.com/k_minutti) |⬜️ | 
 | ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) |⬜️ | 
