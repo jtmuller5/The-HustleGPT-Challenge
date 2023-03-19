@@ -53,7 +53,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌱 | [Grow Wise](https://twitter.com/ZiggyCrypto/status/1636709893339062272) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) | 🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
-| 🍸 | [BarBot AI](https://twitter.com/JunaidDawud/status/1637147495267713024) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
+| 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |⬜️ | 
