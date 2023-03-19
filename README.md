@@ -87,7 +87,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) |
 | 👨‍🦰 | [SmartPapa Consulting](https://twitter.com/smartpapreneur) | Empowering stay-at-home dads to succeed as caregivers and entrepreneurs. | [@meberl](https://twitter.com/meberl) |
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) |
-
+| 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) |
 
 
 ## 🔥 Follow the Hype
