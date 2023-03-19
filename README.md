@@ -44,7 +44,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | 👤 | [neckflexpro](https://twitter.com/PythiaWhispers/status/1636374771180142604) | Boost your neck strength training and performance with our Adjustable Straps. | [@PythiaWhispers](https://twitter.com/PythiaWhispers) |
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) |
 | ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) |
-| 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@soberbeachclub](https://twitter.com/soberbeachclub) |
+| 🍺 | [EcoSoberBrews](https://twitter.com/soberbeachclub/status/1636180980862992384) | Non Alcoholic / Eco Friendly Products | [@ecosoberbrews](https://twitter.com/ecosoberbrews) |
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) |
 | 🎥 | [WeTube.ai](https://wetube.ai) |Your guide to getting started and growing on Youtube | [@chriswoods2009](https://twitter.com/chriswoods2009) |
 | ☕️ | [StressLess Naturals](https://twitter.com/YashasviVashis1/status/1636416094780129281) | Find calm and balance in your daily life | [@YashasviVashis1](https://twitter.com/YashasviVashis1) |
