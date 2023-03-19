@@ -51,6 +51,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌱 | [Grow Wise](https://twitter.com/ZiggyCrypto/status/1636709893339062272) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) | 🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
+| 🍸 | [BarBot AI](https://twitter.com/JunaidDawud/status/1637147495267713024) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |⬜️ | 
@@ -94,7 +95,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) |⬜️ | 
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) |⬜️ | 
 | 👦 | [PersonalizeMe](https://twitter.com/NavalGujrati/status/1637127360993701890?t=puLFr362SGmNm49cdgHvrw&s=19) |Affiliate marketing for items that can be personalized | [@NavalGujrati](https://twitter.com/NavalGujrati) |⬜️ | 
-| 🍸 | [BarBot AI](https://twitter.com/JunaidDawud/status/1637147495267713024) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |⬜️ | 
 | 🕸️ | [MSP SEO Synergy](https://twitter.com/MSPSEOSynergy/status/1636457995251974144) | Uniting SEO & MSPs for success | [@MSPSEOSynergy](https://twitter.com/MSPSEOSynergy) |⬜️ | 
 | 🐦 | [Twitter Clone](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |⬜️ | 
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) |⬜️ | 
