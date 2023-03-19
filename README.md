@@ -37,7 +37,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | Step  | Description | 
 | -- | ---| 
 |  ⬜️ | Building |
-|  🟩 | Made $1 |
+|  🟩 | Made $1+ |
 
 
 > Current Total: 56
