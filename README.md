@@ -40,7 +40,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 62
+> Current Total: 63
 
 > Total Money Makers: 5
 
@@ -108,6 +108,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏋️ | [FitnessGPT](https://twitter.com/NikunjSardhara3/status/1637396562950205440) | Nutrition planning powered by AI | [@NikunjSardhara3](https://twitter.com/NikunjSardhara3) |⬜️ | 
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) |⬜️ | 
 | 📜 | [HustleGPT-Chronicles](https://twitter.com/wallaiin/status/1637381253635928064) | Blog for stories covering AI-driven startups | [@wallaiin](https://twitter.com/wallaiin) |⬜️ | 
+| 🧑‍⚖️ | [THA -  International Trade Law Attorney](https://www.linkedin.com/posts/avomeraydin_yapay-zekan%C4%B1n-s%C3%B6ylediklerini-bire-bir-activity-7043116440471711744-NpRQ?utm_source=share&utm_medium=member_desktop) | Building a platform that will be a bridge from lawyers to company owners | [@omerjpeg](https://twitter.com/omerjpeg) |⬜️ | 
 
 
 
