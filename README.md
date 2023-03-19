@@ -55,7 +55,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
-|  🎱 | [Eightball.com](https://twitter.com/FollowRobJ/status/1636277882539442177) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
+|  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |⬜️ | 
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |⬜️ | 
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) |⬜️ | 
