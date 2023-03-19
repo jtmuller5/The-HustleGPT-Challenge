@@ -30,12 +30,14 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 | Build a business with an AI co-founder| 
 
 ## 💸 Endeavors
+
 If you're participating and have made at least $1 from your hustle, reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter to get verified. 
 
 To switch your status block from ⬜️  --> 🟩 we will need proof of a single sale/donation (ex. screenshot, invoice, etc)
 
 | Step  | Description | 
 | -- | ---| 
+|  🟦 | Non-Profit |
 |  ⬜️ | Building |
 |  🟩 | Made $1+ |
 
@@ -114,7 +116,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌍 | [SylvanStride](https://twitter.com/rsfreitas/status/1637518178166112256) | Explore the world through AI-generated content| [@rsfreitas](https://twitter.com/rsfreitas) |⬜️ | 
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) |⬜️ | 
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |⬜️ | 
-| 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |⬜️ | 
+| 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
 
 
 ### Want to join the challenge?
