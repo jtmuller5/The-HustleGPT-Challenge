@@ -17,6 +17,7 @@ Below is a collection of resources that can help you get the most out of your pa
 |  | Link | Description |  
 | -- | ---| ------ | 
 |  🎨  | [Aitrepreneur](https://www.youtube.com/@Aitrepreneur) | Tutorials on creating AI art |
+  📖  | [Awesome GPT Prompts](https://www.awesomegptprompts.com/) | Copy and Paste ChatGPT prompts |
 |  💬  | [Learn Prompting](https://learnprompting.org/) | General instruction on prompting |
 |  🧑‍💼  | [Prompt Vine](https://www.promptvine.com/) | Prompts to get the bot to act a certain way |
 |  💬  | [promptingguide.ai](https://www.promptingguide.ai/) | Guides on how to efficiently use LLMs |
@@ -35,8 +36,6 @@ Below is a collection of resources that can help you get the most out of your pa
 |  🧰  | [Prompt Stacks](https://www.promptstacks.com/) | Community of Prompt Engineering |
 |  📖  | [Saas Prompts](https://saasprompts.com/) | ChatGPT prompts for your SaaS product |
 |  📖  | [ChatGPT Cheatsheet](https://quickref.me/chatgpt) | Copy and Paste ChatGPT prompts |
-
-
 
 
 
