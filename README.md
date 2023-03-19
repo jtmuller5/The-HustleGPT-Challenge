@@ -106,6 +106,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👧 | [DearAIbby](http://dearaibby.herokuapp.com/) | Get some friendly advice from our AI-powered advice columnist | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🎷 | [VibeCheck](http://vibe-check.herokuapp.com/) | Check the vibe of anyone's texts | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🏋️ | [FitnessGPT](https://twitter.com/NikunjSardhara3/status/1637396562950205440) | Nutrition planning powered by AI | [@NikunjSardhara3](https://twitter.com/NikunjSardhara3) |⬜️ | 
+| 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) |⬜️ | 
 
 
 
