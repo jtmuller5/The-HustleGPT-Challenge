@@ -43,9 +43,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 72
+> Current Total: 73
 
-> Total Money Makers: 5
+> Total Money Makers: 6
 
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
