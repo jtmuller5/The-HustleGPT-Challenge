@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 76
+> Current Total: 77
 
 > Total Money Makers: 6
 
@@ -125,6 +125,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) |⬜️ | 
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) |⬜️ |
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) |⬜️ |
+| ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
 
 
 
