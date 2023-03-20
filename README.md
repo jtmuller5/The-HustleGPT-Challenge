@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 88
+> Current Total: 89
 
 > Total Money Makers: 9
 
@@ -138,6 +138,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🥘| [Smart Recipe AI](https://twitter.com/leo_rsousa_/status/1637775891370586115) | AI powered recipe generation | [@leo_rsousa_](https://twitter.com/leo_rsousa_) |⬜️ |
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled power tools | [@marcelc63](https://twitter.com/marcelc63) |⬜️ |
 | 📝| [WordCrafters](https://twitter.com/jpcooooords/status/1637648385183485952?s=46&t=HLtUFyRoAvIn3wGK-KodWw) | AI-Powered Content Writing | [@jpcooooords](https://twitter.com/jpcooooords) |⬜️ |
+| 🐭| [Mousey Magic Ears](https://mouseymagicears.com/) | Sparking imagination with magical headbands and immersive digital tales for kids | [@MouseyMagicEars](https://twitter.com/MouseyMagicEars) |⬜️ |
 
 
 
