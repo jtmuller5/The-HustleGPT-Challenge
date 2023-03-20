@@ -31,6 +31,9 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 
 ## 💸 Endeavors
 
+>[Vote on your favorite ventures here](https://github.com/jtmuller5/The-HustleGPT-Challenge/discussions/categories/ventures)🗳️
+  
+
 If you're participating and have made at least $1 from your hustle, reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter to get verified. 
 
 To switch your status block from ⬜️  --> 🟩 we will need proof of a single sale/donation (ex. screenshot, invoice, etc)
