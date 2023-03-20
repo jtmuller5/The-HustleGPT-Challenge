@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 85
+> Current Total: 86
 
 > Total Money Makers: 8
 
@@ -133,7 +133,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) |⬜️ |
 | 🧠 | [Second Brain OS](https://umairkamil.com/second-brain/) | Distill AI Tools, Content Strategy & Prompt | [@UmairKamil](https://twitter.com/UmairKamil) |⬜️ |
 | 🐕 | [Green Paws & Petals](https://www.greenpawsandpetals.co.uk/) | Online store for eco-friendly and sustainable pet products | [@jonathans_blog](https://twitter.com/jonathans_blog) |⬜️ |
-
+| 🥘| [Smart Recipe AI](https://twitter.com/leo_rsousa_/status/1637775891370586115) | AI powered recipe generation | [@leo_rsousa_](https://twitter.com/leo_rsousa_) |⬜️ |
 
 
 
