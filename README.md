@@ -24,7 +24,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 ## Our Sponsor
 > Built with HustleGPT
 
-| [HustleGPT Companion Guide]()|
+| [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
 |----- |
 |<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
 | Build a business with an AI co-founder| 
@@ -146,6 +146,8 @@ Reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter with the follo
 You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
 
 ## 📰 In the Press
+<img src="https://logos-download.com/wp-content/uploads/2016/05/Fortune_logo_black_bg.png" />
+
 - [Fortune Magazine](https://fortune.com/2023/03/19/openai-gpt-4-hustlegpt-challenge-users-building-audiences-sharing-how-using-ai-including-to-start-businesses/)
 - [Mashable](https://mashable.com/article/gpt-4-hustlegpt-ai-blueprint-money-making-scheme)
 - [Analytics Insight](https://www.analyticsinsight.net/gpt-4-is-on-a-mission-to-automate-hustle-culture/)
