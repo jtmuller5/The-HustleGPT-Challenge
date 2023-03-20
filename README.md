@@ -167,5 +167,4 @@ You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-
 |----- |----- |
 | 🐤 Twitter |Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20). Want to get added to the list? DM or ping [@craigpearce5](https://twitter.com/craigpearce5) on Twitter|
 | 💬 Discord | [HustleGPT Discord Channel](https://jacksonfall.gumroad.com/l/hustlegpt) |
-| 🎥 YouTube | HustleGPT podcast by [Cyborg CEO](https://www.youtube.com/channel/UCbYrXXkx-9v4iAtaDesecdA) |
 
