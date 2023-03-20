@@ -119,6 +119,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |⬜️ | 
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
 | 🌳 | [Zen Naturally](https://zennaturally.com/) | Discover natural serenity| [@zennaturally01](https://twitter.com/zennaturally01) |⬜️ | 
+| 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) |⬜️ | 
 
 
 
