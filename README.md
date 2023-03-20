@@ -126,7 +126,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) |⬜️ |
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) |⬜️ |
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
-| ☁️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
+| 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
 
 
 Liftandcross
