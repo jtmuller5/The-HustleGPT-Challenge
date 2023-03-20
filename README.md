@@ -128,7 +128,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
 | 🧳 | [Atlas Adventures](https://www.atlasadventures.travel/) | Discover Unforgettable Destinations Around the World | [@AtAdventureTrav](https://twitter.com/AtAdventureTrav) |⬜️ |
 | 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
-| 😃 | [HappyBodyHub](https://happybodyhub.wixsite.com/home) | Your AI-driven wellness hub for curated health products | [@AstralTrading](https://twitter.com/AstralTrading) |⬜️ |
+| 😃 | [HappyBodyHub](https://twitter.com/HappyBodyHub/status/1637552941300105218) | Your AI-driven wellness hub for curated health products | [@AstralTrading](https://twitter.com/AstralTrading) |⬜️ |
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) |⬜️ |
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) |⬜️ |
 | 🧠 | [Second Brain OS](https://umairkamil.com/second-brain/) | Distill AI Tools, Content Strategy & Prompt | [@UmairKamil](https://twitter.com/UmairKamil) |⬜️ |
