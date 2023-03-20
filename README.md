@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 77
 
-> Total Money Makers: 6
+> Total Money Makers: 7
 
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
@@ -56,6 +56,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
 | 🎴 | [Card Pioneers](https://twitter.com/CardPioneers/status/1636712839279935489) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
+| 🌌 | [AI Unbound](https://twitter.com/dreamulatorgame/status/1637436858920566784?s=20) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
@@ -107,7 +108,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👨‍🦰 | [SmartPapa Consulting](https://twitter.com/smartpapreneur) | Empowering stay-at-home dads to succeed as caregivers and entrepreneurs. | [@meberl](https://twitter.com/meberl) |⬜️ | 
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) |⬜️ | 
 | 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) |⬜️ | 
-| 🌌 | [AI Unbound](https://twitter.com/dreamulatorgame/status/1637436858920566784?s=20) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |⬜️ | 
 | 👧 | [DearAIbby](http://dearaibby.herokuapp.com/) | Get some friendly advice from our AI-powered advice columnist | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🎷 | [VibeCheck](http://vibe-check.herokuapp.com/) | Check the vibe of anyone's texts | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🏋️ | [FitnessGPT](https://twitter.com/NikunjSardhara3/status/1637396562950205440) | Nutrition planning powered by AI | [@NikunjSardhara3](https://twitter.com/NikunjSardhara3) |⬜️ | 
