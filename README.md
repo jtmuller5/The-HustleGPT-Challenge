@@ -36,7 +36,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 
 If you're participating and have made at least $1 from your hustle, reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter to get verified. 
 
-To switch your status block from ⬜️  --> 🟩 we will need proof of a single sale/donation (ex. screenshot, invoice, etc)
+To switch your status block from ⬜️  --> 🟩 we will need proof of a single sale/donation (ex. screenshot, invoice, etc). Once you have been verified, your venture will be added to the [Ventures](https://github.com/jtmuller5/The-HustleGPT-Challenge/discussions/categories/ventures) list where the community can vote on it. 
 
 | Step  | Description | 
 | -- | ---| 
