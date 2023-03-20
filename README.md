@@ -153,6 +153,7 @@ You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-
 
 ## 📰 In the Press
 > Click on each image to see the article
+
 <a href="https://fortune.com/2023/03/19/openai-gpt-4-hustlegpt-challenge-users-building-audiences-sharing-how-using-ai-including-to-start-businesses/"><img src="https://logos-download.com/wp-content/uploads/2016/05/Fortune_logo_black_bg.png" width="200"/></a>
 <a href="https://mashable.com/article/gpt-4-hustlegpt-ai-blueprint-money-making-scheme"><img src="https://th.bing.com/th/id/R.de0c99a89b810a05ce8b279131ac2402?rik=u6wy2iGdttFB6A&riu=http%3a%2f%2fknowtechie.com%2fwp-content%2fuploads%2f2014%2f09%2fmashable-logo-1024x204.png&ehk=0Te8NC%2f%2b8kga3VUS8LZZJ94NjuelzMFUefTCCJ2tbYw%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
 <a href="https://www.mirror.co.uk/tech/ai-bot-making-as-much-29483411"><img src="https://th.bing.com/th/id/R.68b0495bd14a0f4d4b3d80a4d671964b?rik=vzzMLqpdwgZy2w&riu=http%3a%2f%2fwww.talktothepress.co.uk%2fwp-content%2fuploads%2f2015%2f05%2fmirror-logo.png&ehk=t1NkLgUpxE%2b9LJUWOerjQ81mInQIjr5%2bwTrPIg%2bpdJg%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
