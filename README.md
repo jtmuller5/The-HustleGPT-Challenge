@@ -126,10 +126,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) |⬜️ |
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) |⬜️ |
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
+| 🧳 | [Atlas Adventures](https://www.atlasadventures.travel/) | Discover Unforgettable Destinations Around the World | [@AtAdventureTrav](https://twitter.com/AtAdventureTrav) |⬜️ |
 | 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
 | 😃 | [HappyBodyHub](https://happybodyhub.wixsite.com/home) | Your AI-driven wellness hub for curated health products | [@AstralTrading](https://twitter.com/AstralTrading) |⬜️ |
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) |⬜️ |
-
 
 
 
