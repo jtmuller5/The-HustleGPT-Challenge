@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 79
+> Current Total: 80
 
 > Total Money Makers: 7
 
@@ -128,6 +128,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
 | 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
 | 😃 | [HappyBodyHub](https://happybodyhub.wixsite.com/home) | Your AI-driven wellness hub for curated health products | [@AstralTrading](https://twitter.com/AstralTrading) |⬜️ |
+| 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) |⬜️ |
+
 
 
 
