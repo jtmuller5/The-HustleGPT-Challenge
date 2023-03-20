@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 82
+> Current Total: 84
 
 > Total Money Makers: 7
 
@@ -130,7 +130,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
 | 😃 | [HappyBodyHub](https://happybodyhub.wixsite.com/home) | Your AI-driven wellness hub for curated health products | [@AstralTrading](https://twitter.com/AstralTrading) |⬜️ |
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) |⬜️ |
-| 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings | [@ArtVentureGo](https://twitter.com/ArtVentureGo) |⬜️ |
+| 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) |⬜️ |
+| 🧠 | [Second Brain OS](https://umairkamil.com/second-brain/) | Distill AI Tools, Content Strategy & Prompt | [@UmairKamil](https://twitter.com/UmairKamil) |⬜️ |
+
 
 
 
