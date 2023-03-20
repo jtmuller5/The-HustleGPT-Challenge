@@ -145,6 +145,12 @@ Reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter with the follo
 
 You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
 
+## 📰 In the Press
+- [Fortune Magazine](https://fortune.com/2023/03/19/openai-gpt-4-hustlegpt-challenge-users-building-audiences-sharing-how-using-ai-including-to-start-businesses/)
+- [Mashable](https://mashable.com/article/gpt-4-hustlegpt-ai-blueprint-money-making-scheme)
+- [Analytics Insight](https://www.analyticsinsight.net/gpt-4-is-on-a-mission-to-automate-hustle-culture/)
+
+
 ## 🔥 Follow the Hype
 |Where| What|
 |----- |----- |
