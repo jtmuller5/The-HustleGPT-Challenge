@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 89
+> Current Total: 90
 
 > Total Money Makers: 9
 
@@ -139,6 +139,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled power tools | [@marcelc63](https://twitter.com/marcelc63) |⬜️ |
 | 📝| [WordCrafters](https://twitter.com/jpcooooords/status/1637648385183485952?s=46&t=HLtUFyRoAvIn3wGK-KodWw) | AI-Powered Content Writing | [@jpcooooords](https://twitter.com/jpcooooords) |⬜️ |
 | 🐭| [Mousey Magic Ears](https://mouseymagicears.com/) | Sparking imagination with magical headbands and immersive digital tales for kids | [@MouseyMagicEars](https://twitter.com/MouseyMagicEars) |⬜️ |
+| ⚙️| [Compounding Machines](https://compoundingmachines.dev/) |On-Demand TypeScript Development for Startups | [@FabianSchucht](https://twitter.com/FabianSchucht) |⬜️ |
 
 
 
