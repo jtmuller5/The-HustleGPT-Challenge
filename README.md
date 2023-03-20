@@ -55,7 +55,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) |🟩  | 
 | 🎴 | [Card Pioneers](https://massive-advantage-471687.framer.app/) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
-| 🌌 | [AI Unbound](https://twitter.com/dreamulatorgame/status/1637436858920566784?s=20) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
+| 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
