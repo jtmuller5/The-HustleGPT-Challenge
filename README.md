@@ -123,6 +123,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌳 | [Zen Naturally](https://zennaturally.com/) | Discover natural serenity| [@zennaturally01](https://twitter.com/zennaturally01) |⬜️ | 
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) |⬜️ | 
 | 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) |⬜️ | 
+| 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) |⬜️ |
+
 
 
 ### Want to join the challenge?
