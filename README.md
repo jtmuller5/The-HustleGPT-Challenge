@@ -42,7 +42,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 86
+> Current Total: 87
 
 > Total Money Makers: 8
 
@@ -133,6 +133,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧠 | [Second Brain OS](https://umairkamil.com/second-brain/) | Distill AI Tools, Content Strategy & Prompt | [@UmairKamil](https://twitter.com/UmairKamil) |⬜️ |
 | 🐕 | [Green Paws & Petals](https://www.greenpawsandpetals.co.uk/) | Online store for eco-friendly and sustainable pet products | [@jonathans_blog](https://twitter.com/jonathans_blog) |⬜️ |
 | 🥘| [Smart Recipe AI](https://twitter.com/leo_rsousa_/status/1637775891370586115) | AI powered recipe generation | [@leo_rsousa_](https://twitter.com/leo_rsousa_) |⬜️ |
+| 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled power tools | [@marcelc63](https://twitter.com/marcelc63) |⬜️ |
 
 
 
