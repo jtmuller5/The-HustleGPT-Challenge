@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 78
+> Current Total: 79
 
 > Total Money Makers: 7
 
@@ -127,9 +127,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) |⬜️ |
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) |⬜️ |
 | 🏋️ | [Liftandcross](http://liftandcross.com/) | Providing AI Generated routines and tips for your Fitness journey and Healthy lifestyle | [@liftandcross](https://twitter.com/liftandcross) |⬜️ |
+| 😃 | [HappyBodyHub](https://happybodyhub.wixsite.com/home) | Your AI-driven wellness hub for curated health products | [@HappyBodyHub](https://twitter.com/HappyBodyHub) |⬜️ |
 
 
-Liftandcross
 
 ### Want to join the challenge?
 
