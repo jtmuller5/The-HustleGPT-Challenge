@@ -43,7 +43,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 73
+> Current Total: 74
 
 > Total Money Makers: 6
 
@@ -122,7 +122,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
 | 🌳 | [Zen Naturally](https://zennaturally.com/) | Discover natural serenity| [@zennaturally01](https://twitter.com/zennaturally01) |⬜️ | 
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) |⬜️ | 
-
+| 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) |⬜️ | 
 
 
 ### Want to join the challenge?
