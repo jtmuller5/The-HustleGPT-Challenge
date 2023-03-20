@@ -60,6 +60,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
+| 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
+| 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |⬜️ | 
@@ -76,7 +78,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☕️ | [StressLess Naturals](https://twitter.com/YashasviVashis1/status/1636416094780129281) | Find calm and balance in your daily life | [@YashasviVashis1](https://twitter.com/YashasviVashis1) |⬜️ | 
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) |⬜️ | 
 | ✨ | [HarmonAIze Project](https://twitter.com/HarmonAIzeGPT/status/1636449283003101186) | Crafting innovative, sustainable solutions for common well-being. | [@HarmonAIzeGPT](https://twitter.com/HarmonAIzeGPT) |⬜️ | 
-| 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |⬜️ | 
 | 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |⬜️ | 
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |⬜️ | 
@@ -121,7 +122,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌍 | [SylvanStride](https://twitter.com/rsfreitas/status/1637518178166112256) | Explore the world through AI-generated content| [@rsfreitas](https://twitter.com/rsfreitas) |⬜️ | 
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) |⬜️ | 
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |⬜️ | 
-| 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
 | 🌳 | [Zen Naturally](https://zennaturally.com/) | Discover natural serenity| [@zennaturally01](https://twitter.com/zennaturally01) |⬜️ | 
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) |⬜️ | 
 | 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) |⬜️ | 
