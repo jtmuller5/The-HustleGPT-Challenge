@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 110
+> Current Total: 112
 
 > Total Money Makers: 13
 
@@ -160,6 +160,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎛️ | [Anywhere Hub](https://anywhere.consulting/anywherehub) |Your Remote Team Management Solution| [@peterbenei](https://twitter.com/peterbenei) |⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) |⬜️ |
 | 🫵 | [ItrainAI](https://twitter.com/AntonLtk/status/1638215116318449672?s=20) |Help AI Help You. A platform where humans can train AI models| [@AntonLtk](https://twitter.com/AntonLtk) |⬜️ |
+| ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) |⬜️ |
+| 🖨️| [POD Maven](https://twitter.com/SimonMcNally5) |Unlocking Print-on-Demand Success| [@SimonMcNally5](https://twitter.com/SimonMcNally5) |⬜️ |
+
+
 
 
 ### Want to join the challenge?
