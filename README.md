@@ -154,14 +154,18 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 ### Want to join the challenge?
 
+**Option 1**
+
 <a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
 
+**Option 2**
 Reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter with the following information:
 - Product/business name
 - Tagline
 - Link to product or Twitter thread tracking your HustleGPT venture
 
-You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
+**Option 3**
+Create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
 
 ## 📰 In the Press
 > Click on each image to see the article
