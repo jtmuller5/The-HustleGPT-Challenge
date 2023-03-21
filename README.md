@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 93
+> Current Total: 94
 
 > Total Money Makers: 9
 
@@ -143,6 +143,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |⬜️ |
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | Etsy store optimization | [@JunaidDawud](https://twitter.com/JunaidDawud) |⬜️ |
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) |⬜️ |
+| 🚙 | [Poetic Roadtrip](https://www.instagram.com/poeticroadtrips/) | Let GPT be an Influencer | [@permabaer](https://twitter.com/permabaer) |⬜️ |
 
 
 
