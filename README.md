@@ -51,7 +51,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
-|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) | 🟩 |
 |  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)| 🟩 |
 | 🏡 | [GreenovationMarket](https://greenovationmarket.com/) | Quality Sustainable Products for a Greener Tomorrow | [@Lauren_79](https://twitter.com/Lauren_79) |🟩  | 
 | 🌱 | [Grow Wise](https://growwiseai.com/) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) | 🟩 | 
@@ -60,6 +59,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) |🟩  | 
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) |🟩 | 
+|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) | 🟩 |
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) |🟩 |
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |🟩 | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |🟩 | 
@@ -163,6 +163,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) |⬜️ |
 | 🖨️| [POD Maven](https://twitter.com/SimonMcNally5) |Unlocking Print-on-Demand Success| [@SimonMcNally5](https://twitter.com/SimonMcNally5) |⬜️ |
 | 🏔️| [Prodigy Minds](https://twitter.com/ProdigyMinds) |Pushing everyone to climb their mountain| [@ProdigyMinds](https://twitter.com/ProdigyMinds) |⬜️ |
+| 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) |⬜️ |
+
 
 
 
