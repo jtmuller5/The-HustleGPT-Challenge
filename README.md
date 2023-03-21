@@ -169,6 +169,6 @@ You can also create a [pull request](https://github.com/jtmuller5/The-HustleGPT-
 ## 🔥 Follow the Hype
 |Where| What|
 |----- |----- |
-| 🐤 Twitter |Follow along HustleGPT creators using a [Twitter list](https://twitter.com/i/lists/1636401448518062081?s=20). Want to get added to the list? DM or ping [@craigpearce5](https://twitter.com/craigpearce5) on Twitter|
+| 🐤 Twitter |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
 | 💬 Discord | [HustleGPT Discord Channel](https://jacksonfall.gumroad.com/l/hustlegpt) |
 
