@@ -47,7 +47,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 111
 
-> Total Money Makers: 13
+> Total Money Makers: 14
 
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
@@ -64,6 +64,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |🟩 | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |🟩 | 
 | 🐦 | [TweetSphere](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟩 |
+|🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟩|
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
@@ -141,7 +142,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📝| [WordCrafters](https://twitter.com/jpcooooords/status/1637648385183485952?s=46&t=HLtUFyRoAvIn3wGK-KodWw) | AI-Powered Content Writing | [@jpcooooords](https://twitter.com/jpcooooords) |⬜️ |
 | 🐭| [Mousey Magic Ears](https://mouseymagicears.com/) | Sparking imagination with magical headbands and immersive digital tales for kids | [@MouseyMagicEars](https://twitter.com/MouseyMagicEars) |⬜️ |
 | ⚙️| [Compounding Machines](https://compoundingmachines.dev/) |On-Demand TypeScript Development for Startups | [@FabianSchucht](https://twitter.com/FabianSchucht) |⬜️ |
-|🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |⬜️ |
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | ChatGPT for iOS Game Development | [@JunaidDawud](https://twitter.com/JunaidDawud) |⬜️ |
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) |⬜️ |
 | 🚙 | [Poetic Roadtrip](https://www.instagram.com/poeticroadtrips/) | Let GPT be an Influencer | [@permabaer](https://twitter.com/permabaer) |⬜️ |
