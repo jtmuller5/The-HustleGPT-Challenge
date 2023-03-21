@@ -106,7 +106,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) |⬜️ | 
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) |⬜️ | 
 | 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) |⬜️ | 
-| 🌊 | [The Web3 Wave](https://twitter.com/Cryptoniard/status/1636820539850276866) | Web3 Marketing Agency | [@Cryptoniard](https://twitter.com/Cryptoniard) |⬜️ | 
+| 🌊 | [The Web3 Wave](https://theweb3wave.carrd.co/) | Web3 Marketing Agency | [@Cryptoniard](https://twitter.com/Cryptoniard) |⬜️ | 
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) |⬜️ | 
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) |⬜️ | 
 | 👦 | [PersonalizeMe](https://twitter.com/NavalGujrati/status/1637127360993701890?t=puLFr362SGmNm49cdgHvrw&s=19) |Affiliate marketing for items that can be personalized | [@NavalGujrati](https://twitter.com/NavalGujrati) |⬜️ | 
