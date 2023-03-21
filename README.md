@@ -1,6 +1,7 @@
 # 🚀 The HustleGPT Challenge 🤖
 
 Curated list of HustleGPT endeavors. [Join the challenge](#join)
+
 Don't forget to:
 - 👉 ...give this repo a star so it become the one-stop-shop for HustleGPT! ⭐ 🤩
 - 👉 ...bookmark this page to check in an everyone's progress! 📆🤩
