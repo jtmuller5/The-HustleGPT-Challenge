@@ -1,7 +1,6 @@
 # 🚀 The HustleGPT Challenge 🤖
 
-Curated list of HustleGPT endeavors. Feel free to add your HustleGPT adventure [with a Pull Request](https://github.com/jtmuller5/The-HustleGPT-Challenge/issues/).
-
+Curated list of HustleGPT endeavors. [Join the challenge](#join)
 Don't forget to:
 - 👉 ...give this repo a star so it become the one-stop-shop for HustleGPT! ⭐ 🤩
 - 👉 ...bookmark this page to check in an everyone's progress! 📆🤩
@@ -166,7 +165,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-### Want to join the challenge?
+### <a name="join"></a> Section 1Want to join the challenge?
 
 <a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
 
