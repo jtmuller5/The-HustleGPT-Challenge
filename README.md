@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 107
+> Current Total: 108
 
 > Total Money Makers: 13
 
@@ -157,6 +157,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) |⬜️ |
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) |⬜️ |
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) |⬜️ |
+| 🎛️ | [Anywhere Hub](https://anywhere.consulting/anywherehub) |Your Remote Team Management Solution| [@peterbenei](https://twitter.com/peterbenei) |⬜️ |
+
 
 
 
