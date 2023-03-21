@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 98
+> Current Total: 105
 
 > Total Money Makers: 12
 
@@ -63,6 +63,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) |🟩 |
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |🟩 | 
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) |🟩 | 
+| 🐦 | [Twitter Clone](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟩 |
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
@@ -107,8 +108,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) |⬜️ | 
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) |⬜️ | 
 | 👦 | [PersonalizeMe](https://twitter.com/NavalGujrati/status/1637127360993701890?t=puLFr362SGmNm49cdgHvrw&s=19) |Affiliate marketing for items that can be personalized | [@NavalGujrati](https://twitter.com/NavalGujrati) |⬜️ | 
-| 🕸️ | [MSP SEO Synergy](https://twitter.com/MSPSEOSynergy/status/1636457995251974144) | Uniting SEO & MSPs for success | [@MSPSEOSynergy](https://twitter.com/MSPSEOSynergy) |⬜️ | 
-| 🐦 | [Twitter Clone](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |⬜️ | 
+| 🕸️ | [MSP SEO Synergy](https://twitter.com/MSPSEOSynergy/status/1636457995251974144) | Uniting SEO & MSPs for success | [@MSPSEOSynergy](https://twitter.com/MSPSEOSynergy) |⬜️ |  
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) |⬜️ | 
 | 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) |⬜️ | 
 | 👨‍🦰 | [SmartPapa Consulting](https://twitter.com/smartpapreneur) | Empowering stay-at-home dads to succeed as caregivers and entrepreneurs. | [@meberl](https://twitter.com/meberl) |⬜️ | 
@@ -148,7 +148,13 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) |⬜️ |
 | 👁️ | [VisionCraft Productions](https://twitter.com/natiakourdadze/status/1637133744581517312) |Video Production and Editing agency | [@natiakourdadze](https://twitter.com/natiakourdadze) |⬜️ |
 | 🤖 | [The DevOps Droid](http://www.thedevopsdroid.com/) |AI-powered DevOps assistant | [@roncrivera](https://twitter.com/roncrivera) |⬜️ |
-
+| 🔼 | [upskillgpt](http://upskillgpt.com/) |Empower Your Future: Upskill with AI and Share Your Success with the World | [@subhrajitdotme](https://twitter.com/subhrajitdotme) |⬜️ |
+| 🗺️ | [myGPTsherpa](https://twitter.com/f_lhuillery_) |Sharing LLM, AI & GPT insights to non English speakers | [@f_lhuillery_](https://twitter.com/f_lhuillery_) |⬜️ |
+| 👕 | [IntelliTees.ai](http://www.intellitees.ai/) |AI designed t-shirts| [@intelliteesai](https://twitter.com/intelliteesai) |⬜️ |
+| 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) |⬜️ |
+| 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) |⬜️ |
+| 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) |⬜️ |
+| 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) |⬜️ |
 
 
 
