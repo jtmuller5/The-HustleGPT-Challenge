@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 108
+> Current Total: 109
 
 > Total Money Makers: 13
 
@@ -84,7 +84,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) |⬜️ | 
 | ✨ | [HarmonAIze Project](https://twitter.com/HarmonAIzeGPT/status/1636449283003101186) | Crafting innovative, sustainable solutions for common well-being. | [@HarmonAIzeGPT](https://twitter.com/HarmonAIzeGPT) |⬜️ | 
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) |⬜️ | 
-| 🌮 | [TacoDownload](https://twitter.com/TacoDownload/status/1636501452699910149) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |⬜️ | 
+| 🌮 | [TacoDownload](https://tacodownload.com/) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) |⬜️ | 
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) |⬜️ | 
 | 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) |⬜️ | 
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) |⬜️ | 
@@ -158,8 +158,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) |⬜️ |
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) |⬜️ |
 | 🎛️ | [Anywhere Hub](https://anywhere.consulting/anywherehub) |Your Remote Team Management Solution| [@peterbenei](https://twitter.com/peterbenei) |⬜️ |
-
-
+| 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) |⬜️ |
 
 
 ### Want to join the challenge?
