@@ -3,9 +3,12 @@
 Curated list of HustleGPT endeavors. [Join the challenge](#join)
 
 Don't forget to:
-- 👉 ...give this repo a star so it become the one-stop-shop for HustleGPT! ⭐ 🤩
-- 👉 ...bookmark this page to check in an everyone's progress! 📆🤩
-- 👉 ...[follow me on Twitter](https://twitter.com/Banjoe__) 😉
+
+⭐⭐⭐ Give this repo a star so it become the one-stop-shop for HustleGPT!
+
+🔖🔖🔖 Bookmark this page to check in an everyone's progress! 
+
+👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
 
 ## What is it?
 
