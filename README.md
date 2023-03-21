@@ -156,7 +156,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) |⬜️ |
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) |⬜️ |
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) |⬜️ |
-| ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@l_katash](https://twitter.com/l_katash) |⬜️ |
+| ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) |⬜️ |
 
 
 
