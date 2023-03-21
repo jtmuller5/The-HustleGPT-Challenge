@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 111
+> Current Total: 112
 
 > Total Money Makers: 14
 
@@ -162,7 +162,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🫵 | [ItrainAI](https://twitter.com/AntonLtk/status/1638215116318449672?s=20) |Help AI Help You. A platform where humans can train AI models| [@AntonLtk](https://twitter.com/AntonLtk) |⬜️ |
 | ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) |⬜️ |
 | 🖨️| [POD Maven](https://twitter.com/SimonMcNally5) |Unlocking Print-on-Demand Success| [@SimonMcNally5](https://twitter.com/SimonMcNally5) |⬜️ |
-
+| 🏔️| [Prodigy Minds](https://twitter.com/ProdigyMinds) |Pushing everyone to climb their mountain| [@ProdigyMinds](https://twitter.com/ProdigyMinds) |⬜️ |
 
 
 
