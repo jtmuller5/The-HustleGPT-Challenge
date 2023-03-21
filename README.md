@@ -47,7 +47,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 94
 
-> Total Money Makers: 10
+> Total Money Makers: 11
 
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
@@ -61,6 +61,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) |🟩 | 
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) |🟩 |
+| 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |🟩 | 
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
@@ -122,7 +123,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧠 | [ChatGPT Connects](https://twitter.com/chatgptconnects/status/1637465225426522114) | Affordable, pay-per-use access to ChatGPT 4. | [@chatgptconnects](https://twitter.com/chatgptconnects) |⬜️ | 
 | 🌍 | [SylvanStride](https://twitter.com/rsfreitas/status/1637518178166112256) | Explore the world through AI-generated content| [@rsfreitas](https://twitter.com/rsfreitas) |⬜️ | 
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) |⬜️ | 
-| 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) |⬜️ | 
 | 🌳 | [Zen Naturally](https://zennaturally.com/) | Discover natural serenity| [@zennaturally01](https://twitter.com/zennaturally01) |⬜️ | 
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) |⬜️ | 
 | 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) |⬜️ | 
