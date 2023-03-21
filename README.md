@@ -194,7 +194,7 @@ Create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pul
 <a href="https://finance.yahoo.com/news/users-openai-gpt-4-building-131402692.html"><img src="https://cereusfinancial.com/wp-content/uploads/2020/08/Yahoo-Finance.png" width="200"/></a>
 <a href="https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3"><img src="https://images.squarespace-cdn.com/content/v1/5c795838840b1645c313486b/1551458084005-88748JPCGY8NNNOQ1TQO/ke17ZwdGBToddI8pDm48kEEIqQdm9BveNflYrBmgLscUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnKf989G565wP-hlb4QN2XPRbQy757K-AC5bHwWKFa8mR5LHyKwBXajiqsv2rce3p_A/Business+Insider+Logo.png" width="200"/></a>
 
-
+[Twitter MegaThread](https://twitter.com/Banjoe__/status/1637846783521959937)
 
 ## 🔥 Follow the Hype
 |Where| What|
