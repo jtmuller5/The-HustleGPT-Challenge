@@ -45,7 +45,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 95
+> Current Total: 96
 
 > Total Money Makers: 12
 
@@ -145,7 +145,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) |⬜️ |
 | 🚙 | [Poetic Roadtrip](https://www.instagram.com/poeticroadtrips/) | Let GPT be an Influencer | [@permabaer](https://twitter.com/permabaer) |⬜️ |
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) |⬜️ |
-
+| 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) |⬜️ |
 
 
 
