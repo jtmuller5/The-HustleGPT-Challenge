@@ -67,7 +67,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) | 🟦 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) |🟦  | 
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦 | 
-| 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter. I write stories of love, loss and the lessons we learn along the way. #authorlife #aquarellepainting #lovelost | [@goern](https://twitter.com/goern) | 🟦 |
+| 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter | [@goern](https://twitter.com/goern) | 🟦 |
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) |⬜️ | 
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) |⬜️ | 
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |⬜️ | 
