@@ -159,12 +159,14 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 <a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
 
 **Option 2**
+
 Reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter with the following information:
 - Product/business name
 - Tagline
 - Link to product or Twitter thread tracking your HustleGPT venture
 
 **Option 3**
+
 Create a [pull request](https://github.com/jtmuller5/The-HustleGPT-Challenge/pulls) and add yourself.
 
 ## 📰 In the Press
