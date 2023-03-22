@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 135
+> Current Total: 139
 
 > Total Money Makers: 18
 # Categories
@@ -188,6 +188,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | ChatGPT for iOS Game Development | [@JunaidDawud](https://twitter.com/JunaidDawud) | 🟧⬜️ |
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) | 🟧⬜️ |
 | 🕹️ | [OnEdge](https://twitter.com/papcor) | Exploring the World of Gaming | [@papcor](https://twitter.com/papcor) | 🟧⬜️ | 
+| 🗂️ | [Mana Mentor](https://twitter.com/ManaMentor) | Elevate Your Game: Personalized Deck Building and Performance Analysis for Magic: The Gathering | [@ManaMentor](https://twitter.com/ManaMentor) | 🟧⬜️ | 
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🪦 | 
 
 
@@ -210,7 +211,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
 | 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
 | 🧑‍🎨 | [Ara Ara](https://www.araara.shop/) | Community driven clothing for artists | [@Ara_Ara_Apparel](https://twitter.com/Ara_Ara_Apparel) | 🟧⬜️ | 
-
+| 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://twitter.com/hitthelipbalm) | 🟧⬜️ | 
+| 💋 | [Black Gold Beauty](https://black-gold-beauty.webflow.io) | Your natural beauty solution | [@blackgoldbty](https://twitter.com/blackgoldbty) | 🟧⬜️ | 
 
 
 
@@ -267,6 +269,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
 | 👨‍🦰 | [SmartPapa Consulting](https://twitter.com/smartpapreneur) | Empowering stay-at-home dads to succeed as caregivers and entrepreneurs. | [@meberl](https://twitter.com/meberl) | 🟧⬜️ | 
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) | 🟧⬜️ |
+| 📑 | [Realtor's Docs](https://www.realtorsdocs.com/) | Allowing today’s Real Estate agent to auto-generate their most common documents | [@VOIPCEO](https://twitter.com/VOIPCEO) | 🟧⬜️ |
+
+
 
 
 ## <a name="wellbeing"></a> 😊 Wellbeing
