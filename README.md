@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 130
 
-> Total Money Makers: 17
+> Total Money Makers: 18
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -213,9 +213,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="pets"></a> 🦮 Pets
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🐕 | [Green Paws & Petals](https://www.greenpawsandpetals.co.uk/) | Online store for eco-friendly and sustainable pet products | [@jonathans_blog](https://twitter.com/jonathans_blog) | 🟧🟩 |
 |  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) | 🟧🟩 | 
 |  😸 | [MeowMatters](https://twitter.com/xnuonux/status/1636281681630863360) | Cater to Your Purrfect Companion | [@xnuonux](https://twitter.com/xnuonux) | 🟧⬜️ |
-| 🐕 | [Green Paws & Petals](https://www.greenpawsandpetals.co.uk/) | Online store for eco-friendly and sustainable pet products | [@jonathans_blog](https://twitter.com/jonathans_blog) | 🟧⬜️ |
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) | 🟧⬜️ |
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) | 🟧⬜️ | 
 | 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) | 🟧⬜️ | 
