@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 139
+> Current Total: 140
 
 > Total Money Makers: 18
 # Categories
@@ -107,6 +107,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) | 🟧⬜️ |
 | 🧵 | [Sustainable Threads](https://www.sustainablethreads.net/) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
 | 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧⬜️ |
+| 🌏 | [planet Preservers](https://planetpreservers.com) |An eco-friendly store focused on providing sustainable products and reduce environmental impact| [@Cosmin17Dinu](https://twitter.com/Cosmin17Dinu) | 🟧⬜️ |
+
 
 
 
