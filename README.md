@@ -71,8 +71,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | Step  | Description | 
 | -- | ---| 
 |  🟦 | Non-Profit |
+|  🟧 | For Profit |
 |  ⬜️ | Building |
 |  🟩 | Made $1+ |
+|  🪦 | Discontinued |
 
 
 > Current Total: 115
@@ -167,9 +169,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 | 🎴 | [Card Pioneers](https://massive-advantage-471687.framer.app/) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) |🟩  | 
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) |🟩 | 
-| 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) |⬜️ | 
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | ChatGPT for iOS Game Development | [@JunaidDawud](https://twitter.com/JunaidDawud) |⬜️ |
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) |⬜️ |
+| 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) |🪦 | 
 
 
 ## <a name="products"></a> 👕 Products
@@ -265,7 +267,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) |⬜️ |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |⬜️ | 
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) |⬜️ | 
-
 
 
 <br>
