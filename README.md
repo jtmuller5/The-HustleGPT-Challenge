@@ -330,7 +330,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 <a href="https://www.analyticsinsight.net/gpt-4-is-on-a-mission-to-automate-hustle-culture/"><img src="https://fiverr-res.cloudinary.com/t_delivery_thumb,q_auto,f_auto/deliveries/52074437/original/creative-logo-design_ws_1471283896.jpg" width="200"/></a>
 <a href="https://finance.yahoo.com/news/users-openai-gpt-4-building-131402692.html"><img src="https://cereusfinancial.com/wp-content/uploads/2020/08/Yahoo-Finance.png" width="200"/></a>
 <a href="https://www.businessinsider.com/how-to-use-chatgpt-to-start-business-make-money-quickly-2023-3"><img src="https://images.squarespace-cdn.com/content/v1/5c795838840b1645c313486b/1551458084005-88748JPCGY8NNNOQ1TQO/ke17ZwdGBToddI8pDm48kEEIqQdm9BveNflYrBmgLscUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnKf989G565wP-hlb4QN2XPRbQy757K-AC5bHwWKFa8mR5LHyKwBXajiqsv2rce3p_A/Business+Insider+Logo.png" width="200"/></a>
+<br>
 <a href="https://futurism.com/the-byte/man-starts-business-chatgpt"><img src="https://www.thearcticinstitute.org/wp-content/uploads/2017/12/Futurism_logo.png?x62767" width="200"/></a>
+<a href="https://www.entrepreneur.com/business-news/how-to-start-a-business-with-100-using-chatgpt-ai-tools/448066"><img src="https://th.bing.com/th/id/R.1c405d2b4ab37cdbbce245d55ef66dcd?rik=NZz8shvdGQiXSQ&riu=http%3a%2f%2fwww.leader.co.za%2fleadership%2flogos%2flogo_entrepreneur_01e6.png&ehk=yad95qLLWsHvY2JT7X2cCVorxujCHVU6VbC92Auh%2frs%3d&risl=&pid=ImgRaw&r=0" width="200"/></a>
+
 
 
 [Twitter MegaThread](https://twitter.com/Banjoe__/status/1637846783521959937)
