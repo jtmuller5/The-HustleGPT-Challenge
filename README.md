@@ -142,7 +142,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
-| 💪 | [HustleGPT_DAO](https://www.twitter.com/HustleGPT_DAO) |Stronger Together | [@HustleGPT_DAO](https://twitter.com/HustleGPT_DAO) | 🟧⬜️ | 
+| 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ | 
 
 
 
