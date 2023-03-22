@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 115
+> Current Total: 116
 
 > Total Money Makers: 14
 # Categories
@@ -202,6 +202,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) | 🟧⬜️ |
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) | 🟧⬜️ | 
 | 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) | 🟧⬜️ | 
+| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
 
 
 ## <a name="entertainment"></a> 🎸 Entertainment
