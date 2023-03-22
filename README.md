@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 133
+> Current Total: 135
 
 > Total Money Makers: 18
 # Categories
@@ -209,6 +209,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
 | ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
 | 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
+| 🧑‍🎨 | [Ara Ara](https://www.araara.shop/) | Community driven clothing for artists | [@Ara_Ara_Apparel](https://twitter.com/Ara_Ara_Apparel) | 🟧⬜️ | 
+
 
 
 
@@ -301,6 +303,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🪙 | [fomogonewild](https://twitter.com/fomogonewild) | Crypto, Memes & Chaos... and some Blockchain Education! | [@fomogonewild](https://twitter.com/fomogonewild) | 🟧⬜️ | 
 | 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
 | 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
+| 🔧 | [IntelliHomeGuide](https://intellihomeguide.com/) | Empowering Your Connected Home: Smart Solutions for Effortless Living| [@IntelliHomeAI](https://twitter.com/IntelliHomeAI) | 🟧⬜️ | 
 
 
 
