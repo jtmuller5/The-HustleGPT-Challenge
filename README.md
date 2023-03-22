@@ -1,6 +1,7 @@
 # 🚀 The HustleGPT Challenge 🤖
 
 Curated list of HustleGPT endeavors.
+
 <a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
 <br>
 
