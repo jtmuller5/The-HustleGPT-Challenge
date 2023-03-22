@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 117
+> Current Total: 118
 
 > Total Money Makers: 15
 # Categories
@@ -136,6 +136,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤖 | [The DevOps Droid](http://www.thedevopsdroid.com/) |AI-powered DevOps assistant | [@roncrivera](https://twitter.com/roncrivera) | 🟧⬜️ |
 | 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) | 🟧⬜️ |
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
+| 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
 
 
 ## <a name="food"></a> 🍔 Food and Drink
