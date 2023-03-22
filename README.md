@@ -328,6 +328,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="hype"></a>🔥 Follow the Hype
 |Where| What|
 |----- |----- |
-| 🐤 Twitter |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
+| 🐤 Twitter (the list seems to be stuck at 91 members, cannot add more at this time) |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
 | 💬 Discord | [HustleGPT Discord Channel](https://jacksonfall.gumroad.com/l/hustlegpt) |
 
