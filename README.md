@@ -157,7 +157,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌮 | [TacoDownload](https://tacodownload.com/) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) | 🟧⬜️ | 
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) | 🟧⬜️ | 
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) | 🟧⬜️ | 
-| 🍹 | [Best Cocktail Bars](https://twitter.com/KCartero/status/1636811098866237444) | Discover the best cocktail bars from across the world | [@KCartero](https://twitter.com/KCartero) | 🟧⬜️ | 
+| 🍹 | [Best Cocktail Bars](https://www.bestcocktailbars.com/) | Discover the best cocktail bars from across the world | [@KCartero](https://twitter.com/KCartero) | 🟧⬜️ | 
 | 🥘| [Smart Recipe AI](https://twitter.com/leo_rsousa_/status/1637775891370586115) | AI powered recipe generation | [@leo_rsousa_](https://twitter.com/leo_rsousa_) | 🟧⬜️ |
 | 🍏 | [Buidler Bites](https://twitter.com/BuidlerBites/status/1636592697015164928) | Fueling web3 natives with curated meal plans, meal replacements & supplements! | [@BuidlerBites](https://twitter.com/BuidlerBites) | 🟧⬜️ | 
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) | 🟧⬜️ |
