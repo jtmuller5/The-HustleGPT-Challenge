@@ -28,8 +28,6 @@ Don't forget to:
 [🔥 Follow the Hype](#hype)
 
 
-
-<br>
 <br>
 
 # <a name="what"></a>❓ What is it?
