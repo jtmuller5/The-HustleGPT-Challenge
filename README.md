@@ -102,7 +102,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌱 | [Grow Wise](https://growwiseai.com/) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) |  🟧🟩 | 
 | 🍃 | [Restimuli](https://twitter.com/celue/status/1636721245491191809) | ESG Sustainability is your passport for the future | [@celue](https://twitter.com/celue) | 🟧⬜️ | 
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) | 🟧⬜️ |
-| 🧵 | [Sustainable Threads](https://twitter.com/Purplekirbyeth/status/1636619227061948417) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
+| 🧵 | [Sustainable Threads](https://www.sustainablethreads.net/) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
 | 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧⬜️ |
 
 
