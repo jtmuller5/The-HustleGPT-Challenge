@@ -78,9 +78,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 116
+> Current Total: 117
 
-> Total Money Makers: 14
+> Total Money Makers: 15
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -155,6 +155,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="art"></a> 🖌️ Art
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🪑 | [Liang Design](https://www.instagram.com/liang.design/?igshid=YmMyMTA2M2Y%3D) | Iconic design, in the palm of your hands | [@jjackyliang](https://twitter.com/jjackyliang) | 🟧🟩 | 
 | 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter | [@goern](https://twitter.com/goern) | 🟦⬜️ | 
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) | 🟧⬜️ |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) | 🟧⬜️ | 
