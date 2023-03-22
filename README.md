@@ -178,7 +178,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="products"></a> 👕 Products
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
-|🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟩|
+|🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) | 🟧⬜️ |
 | 👕 | [IntelliTees.ai](http://www.intellitees.ai/) |AI designed t-shirts| [@intelliteesai](https://twitter.com/intelliteesai) | 🟧⬜️ |
 | 🐭| [Mousey Magic Ears](https://mouseymagicears.com/) | Sparking imagination with magical headbands and immersive digital tales for kids | [@MouseyMagicEars](https://twitter.com/MouseyMagicEars) | 🟧⬜️ |
@@ -207,7 +207,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="entertainment"></a> 🎸 Entertainment
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
-| 🐦 | [TweetSphere](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟩 |
+| 🐦 | [TweetSphere](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟧🟩 |
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) | 🟧⬜️ | 
 | 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) | 🟧⬜️ | 
