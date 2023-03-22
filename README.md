@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 119
+> Current Total: 122
 
 > Total Money Makers: 17
 # Categories
@@ -164,6 +164,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
+| 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
+
+
 
 
 
@@ -221,6 +224,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) | 🟧⬜️ |
 | 🧳 | [Atlas Adventures](https://www.atlasadventures.travel/) | Discover Unforgettable Destinations Around the World | [@AtAdventureTrav](https://twitter.com/AtAdventureTrav) | 🟧⬜️ |
 | 🤣 | [MemeCraft](https://memecraft.ai) | Instant Memes, Endless Laughs | [@MemeCraftAI](https://twitter.com/MemeCraftAI) | 🟧⬜️ |
+| 💨 | [PuffPassports](https://www.puffpassports.com) | Explore The High Life | [@puffpassports](https://twitter.com/puffpassports) | 🟧⬜️ |
+
 
 
 ## <a name="business"></a> 🛠️ Business Resources
@@ -271,6 +276,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) | 🟧⬜️ |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) | 🟧⬜️ | 
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) | 🟧⬜️ | 
+| 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
 
 
 <br>
