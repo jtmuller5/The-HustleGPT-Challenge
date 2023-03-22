@@ -30,6 +30,8 @@ Don't forget to:
 
 [🔥 Follow the Hype](#hype)
 
+[☕️ Support](#support)
+
 
 <br>
 
@@ -331,4 +333,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |----- |----- |
 | 🐤 Twitter |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
 | 💬 Discord | [HustleGPT Discord Channel](https://jacksonfall.gumroad.com/l/hustlegpt) |
+
+
+# <a name="support"></a>☕️ Support
+<a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
