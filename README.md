@@ -70,7 +70,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🟩 | Made $1+ |
 
 
-> Current Total: 113
+> Current Total: 115
 
 > Total Money Makers: 14
 # Categories
@@ -209,6 +209,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👧 | [DearAIbby](http://dearaibby.herokuapp.com/) | Get some friendly advice from our AI-powered advice columnist | [@jenniferturliuk](https://twitter.com/jenniferturliuk) |⬜️ | 
 | 🏝️ | [Maldives on a Shoestring](https://twitter.com/iththi/status/1637489853834067970) | Ultimate Guide to Affordable Island Bliss | [@iththi](https://twitter.com/iththi) |⬜️ |
 | 🧳 | [Atlas Adventures](https://www.atlasadventures.travel/) | Discover Unforgettable Destinations Around the World | [@AtAdventureTrav](https://twitter.com/AtAdventureTrav) |⬜️ |
+| 🤣 | [MemeCraft](https://memecraft.ai) | Instant Memes, Endless Laughs | [@MemeCraftAI](https://twitter.com/MemeCraftAI) |⬜️ |
 
 
 ## <a name="business"></a> 🛠️ Business Resources
@@ -258,6 +259,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) |⬜️ | 
 | 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) |⬜️ |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) |⬜️ | 
+| 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) |⬜️ | 
 
 
 
