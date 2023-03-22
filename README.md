@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 118
+> Current Total: 119
 
 > Total Money Makers: 17
 # Categories
