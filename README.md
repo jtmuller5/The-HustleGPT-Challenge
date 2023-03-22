@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 132
+> Current Total: 133
 
 > Total Money Makers: 18
 # Categories
@@ -300,6 +300,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
 | 🪙 | [fomogonewild](https://twitter.com/fomogonewild) | Crypto, Memes & Chaos... and some Blockchain Education! | [@fomogonewild](https://twitter.com/fomogonewild) | 🟧⬜️ | 
 | 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
+| 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
+
+
 
 
 
