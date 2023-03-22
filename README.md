@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 131
+> Current Total: 132
 
 > Total Money Makers: 18
 # Categories
@@ -297,6 +297,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) | 🟧⬜️ | 
 | 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
 | 🪙 | [fomogonewild](https://twitter.com/fomogonewild) | Crypto, Memes & Chaos... and some Blockchain Education! | [@fomogonewild](https://twitter.com/fomogonewild) | 🟧⬜️ | 
+| 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
 
 
 
