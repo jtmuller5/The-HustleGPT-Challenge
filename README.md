@@ -266,7 +266,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 <br>
 <br>
 
-# <a name="join"></a> Want to join the challenge?
+# <a name="join"></a>🚀 Want to join the challenge?
 
 <a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
 <br>
