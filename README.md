@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 122
+> Current Total: 124
 
 > Total Money Makers: 17
 # Categories
@@ -92,6 +92,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 - 🎸 [Entertainment](#entertainment)
 - 🛠️ [Business Resources](#business)
 - 😊 [Wellbeing](#wellbeing)
+- 📚 [Education](#education)
 - 🚀 [Miscellaneous](#misc)
 
 ## <a name="eco"></a> 🌱 Eco-friendly
@@ -137,6 +138,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) | 🟧⬜️ |
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
+| 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
+
+
 
 
 ## <a name="food"></a> 🍔 Food and Drink
@@ -266,15 +270,20 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💪 | [VivoThrive](https://vivothrive.com) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) | 🟧⬜️ | 
 
 
+## <a name="education"></a> 📚 Education
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+| 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) | 🟧⬜️ | 
+| 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) | 🟧⬜️ |
+|  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) | 🟧⬜️ | 
+|   📄 | [DocChat](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Creating immersive textbook learning for any text book | [@nos_ult](https://twitter.com/nos_ult) | 🟧⬜️ | 
+
 
 
 ## <a name="misc"></a> 🚀 Miscellaneous
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) | 🟧⬜️ | 
-| 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) | 🟧⬜️ | 
-| 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) | 🟧⬜️ |
-|  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) | 🟧⬜️ | 
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) | 🟧⬜️ | 
 | 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
 
