@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 129
+> Current Total: 130
 
 > Total Money Makers: 17
 # Categories
@@ -185,7 +185,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) | 🟧🟩 | 
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | ChatGPT for iOS Game Development | [@JunaidDawud](https://twitter.com/JunaidDawud) | 🟧⬜️ |
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) | 🟧⬜️ |
+| 🕹️ | [OnEdge](https://twitter.com/papcor) | Exploring the World of Gaming | [@papcor](https://twitter.com/papcor) | 🟧⬜️ | 
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🪦 | 
+
 
 
 ## <a name="products"></a> 👕 Products
