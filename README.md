@@ -203,7 +203,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) | 🟧⬜️ |
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧⬜️ | 
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) | 🟧⬜️ | 
-| 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) | 🟧⬜️ |  
+| 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Blog about space and science fiction litterature | [@StellarPathways](https://twitter.com/StellarPathways) | 🟧⬜️ |  
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
 | ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
 | 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
