@@ -11,7 +11,28 @@ Don't forget to:
 👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
 <br>
 <br>
-# What is it?
+# Table of Contents
+
+[❓ What is it](#what)
+
+[💬 The Prompt](#prompt)
+
+[🗺️ The Guide](#guide)
+
+[💸 Ventures](#ventures)
+
+[🚀 Join](#join)
+
+[📰 In the Press](#press)
+
+[🔥 Follow the Hype](#hype)
+
+
+
+<br>
+<br>
+
+# <a name="what"></a>❓ What is it?
 
 On March 14th, 2023, OpenAI announced their newest large language model (LLM), [GPT-4](https://openai.com/research/gpt-4). Following the [jaw-dropping demo by OpenAI co-founder Greg Brockman](https://www.youtube.com/watch?v=outcGtbnMuQ), the model took the internet by storm. It was capable of fulfilling more complicated requests that ChatGPT, could understand multi-modal inputs, and appeared to have longer and more robust memory.
 
@@ -23,11 +44,11 @@ Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) on Tw
 The goal of the HustleGPT challenge is to turn $100 into as much money as possible in the shortest amount of time possible by partnering with GPT-4 to varying degrees.
 <br>
 <br>
-# The Prompt
+# <a name="prompt"></a>💬 The Prompt
 >You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
 <br>
 <br>
-# Our Sponsor
+# <a name="guide"></a>🗺️ The Guide
 > Built with HustleGPT
 
 | [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
@@ -35,7 +56,7 @@ The goal of the HustleGPT challenge is to turn $100 into as much money as possib
 |<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
 | Build a business with an AI co-founder| 
 
-# 💸 Endeavors
+# <a name="ventures"></a>💸 Ventures
 
 >[Vote on your favorite ventures here](https://github.com/jtmuller5/The-HustleGPT-Challenge/discussions/categories/ventures)🗳️
   
@@ -253,7 +274,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-# 📰 In the Press
+# <a name="press"></a>📰 In the Press
 > Click on each image to see the article
 
 <a href="https://fortune.com/2023/03/19/openai-gpt-4-hustlegpt-challenge-users-building-audiences-sharing-how-using-ai-including-to-start-businesses/"><img src="https://logos-download.com/wp-content/uploads/2016/05/Fortune_logo_black_bg.png" width="200"/></a>
@@ -267,7 +288,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 [Twitter MegaThread](https://twitter.com/Banjoe__/status/1637846783521959937)
 <br>
 <br>
-# 🔥 Follow the Hype
+# <a name="hype"></a>🔥 Follow the Hype
 |Where| What|
 |----- |----- |
 | 🐤 Twitter |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
