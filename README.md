@@ -78,7 +78,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 124
+> Current Total: 129
 
 > Total Money Makers: 17
 # Categories
@@ -139,6 +139,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
+| 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
+
 
 
 
@@ -155,6 +157,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🥘| [Smart Recipe AI](https://twitter.com/leo_rsousa_/status/1637775891370586115) | AI powered recipe generation | [@leo_rsousa_](https://twitter.com/leo_rsousa_) | 🟧⬜️ |
 | 🍏 | [Buidler Bites](https://twitter.com/BuidlerBites/status/1636592697015164928) | Fueling web3 natives with curated meal plans, meal replacements & supplements! | [@BuidlerBites](https://twitter.com/BuidlerBites) | 🟧⬜️ | 
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) | 🟧⬜️ |
+| 🔪 | [Sustainable Chef](https://sustainablechef.store/) | Following and selling eco friendly kitchen appliances| [@sustainablechefofficial](https://instagram.com/sustainablechefofficial?igshid=N2JhNDIwYjc=) | 🟧⬜️ |
+
 
 
 ## <a name="art"></a> 🖌️ Art
@@ -199,6 +203,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) | 🟧⬜️ | 
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Article, e-book and product about Space and Space Industry | [@StellarPathways](https://twitter.com/StellarPathways) | 🟧⬜️ |  
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
+| ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
+| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
 
 
 
@@ -211,7 +217,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐶 | [PlanetPup](https://planetpup.ie/) | Go-to destination for ethical and sustainable dog ownership in Ireland.| [@PlanetPupTweets](https://twitter.com/PlanetPupTweets) | 🟧⬜️ |
 | 🐾 | [GreenPawPets](https://twitter.com/btcrates/status/1636398869851561985) | Go-to source for eco-friendly and pet-related tips | [@btcrates](https://twitter.com/btcrates) | 🟧⬜️ | 
 | 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) | 🟧⬜️ | 
-| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
+| 🐕‍🦺 | [Prime Pet Products](https://twitter.com/KKingston46) | Sustainable pet products | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
+
+
 
 
 ## <a name="entertainment"></a> 🎸 Entertainment
@@ -286,6 +294,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) | 🟧⬜️ | 
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) | 🟧⬜️ | 
 | 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
+| 🪙 | [fomogonewild](https://twitter.com/fomogonewild) | Crypto, Memes & Chaos... and some Blockchain Education! | [@fomogonewild](https://twitter.com/fomogonewild) | 🟧⬜️ | 
+
 
 
 <br>
