@@ -397,7 +397,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |Where| What|
 |----- |----- |
 | 🐤 Twitter |[Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20)|
-| 💬 Discord | [HustleGPT Discord Channel](https://jacksonfall.gumroad.com/l/hustlegpt) |
 
 
 # <a name="support"></a>☕️ Support
