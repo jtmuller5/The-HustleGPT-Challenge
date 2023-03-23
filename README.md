@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 140
+> Current Total: 142
 
 > Total Money Makers: 18
 # Categories
@@ -289,6 +289,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ⚒️ | [FitLifeForge](https://twitter.com/white_house_eth/status/1636647163999469569) | Forging a Fit Life Journey | [@white_house_eth](https://twitter.com/white_house_eth) | 🟧⬜️ | 
 | 🏔️| [Prodigy Minds](https://twitter.com/ProdigyMinds) |Pushing everyone to climb their mountain| [@ProdigyMinds](https://twitter.com/ProdigyMinds) | 🟧⬜️ |
 | 💪 | [VivoThrive](https://vivothrive.com) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) | 🟧⬜️ | 
+| 🧘 | [MindfulJourneyHQ](https://mindfuljourneyhq.com/) | Discover the Secret to a Happy Mind and Calm Heart | [@dimavogel](https://twitter.com/dimavogel) | 🟧⬜️ | 
+| 🧘 | [Supacamp](https://twitter.com/louis_blythe_) | Whatever you can dream you can do | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
+
 
 
 ## <a name="education"></a> 📚 Education
