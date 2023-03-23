@@ -182,7 +182,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter | [@goern](https://twitter.com/goern) | 🟦⬜️ | 
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) | 🟧⬜️ |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) | 🟧⬜️ | 
-| 🕹️ | [Gaming Gear](https://twitter.com/HustleGPT_AI/status/1636786769709645824) | Gaming gear and tech affiliate website | [@HustleGPT_AI](https://twitter.com/HustleGPT_AI) | 🟧⬜️ | 
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
@@ -197,6 +196,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 | 🎴 | [Card Pioneers](https://massive-advantage-471687.framer.app/) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) | 🟧🟩  | 
 | 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) | 🟧🟩 | 
+| 🕹️ | [Gaming Gear](https://twitter.com/HustleGPT_AI/status/1636786769709645824) | Gaming gear and tech affiliate website | [@HustleGPT_AI](https://twitter.com/HustleGPT_AI) | 🟧⬜️ | 
 | 🐸 | [GameDevGPT](https://github.com/jdawud/FrogGame) | ChatGPT for iOS Game Development | [@JunaidDawud](https://twitter.com/JunaidDawud) | 🟧⬜️ |
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) | 🟧⬜️ |
 | 🕹️ | [OnEdge](https://twitter.com/papcor) | Exploring the World of Gaming | [@papcor](https://twitter.com/papcor) | 🟧⬜️ | 
