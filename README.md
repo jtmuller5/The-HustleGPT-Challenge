@@ -80,7 +80,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 142
+> Current Total: 144
 
 > Total Money Makers: 19
 # Categories
@@ -145,6 +145,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ | 
+| ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ | 
 
 
 
@@ -177,7 +178,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
-
+| 🌲| [EarthyArtExpressions](https://www.etsy.com/shop/EarthyArtExpressions) | Nature-Inspired Digital Art & Wall Decor| [@anthonygraindorge](https://www.linkedin.com/in/anthonygraindorge/) | 🟧⬜️ |
 
 
 
@@ -314,7 +315,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
 | 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
 | 🔧 | [IntelliHomeGuide](https://intellihomeguide.com/) | Empowering Your Connected Home: Smart Solutions for Effortless Living| [@IntelliHomeAI](https://twitter.com/IntelliHomeAI) | 🟧⬜️ | 
-
+| 🧼 | [Sanityde Cleaning Solutions](https://sanityde.com) | Pioneering Seamless & Scalable Solutions for the Service Industry| [@Jon_Mon_Jovi](https://twitter.com/Jon_Mon_Jovi) | 🟧⬜️ | 
 
 
 
