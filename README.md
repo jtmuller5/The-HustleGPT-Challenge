@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 145
 
-> Total Money Makers: 19
+> Total Money Makers: 20
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -312,13 +312,13 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="misc"></a> 🚀 Miscellaneous
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🔧 | [IntelliHomeGuide](https://intellihomeguide.com/) | Empowering Your Connected Home: Smart Solutions for Effortless Living| [@IntelliHomeAI](https://twitter.com/IntelliHomeAI) | 🟧🟩 | 
 | 🦾 | [SuperDroid Robots](https://twitter.com/stevenuecke/status/1636488711687774208) | Robots making dangerous and dirty jobs safer and cleaner | [@stevenuecke](https://twitter.com/stevenuecke) | 🟧⬜️ | 
 | 🏠| [Flattie](https://flattie.co.uk/) | Find your perfect roommate with Flattie | [@jameswilliamtew](https://twitter.com/jameswilliamtew) | 🟧⬜️ | 
 | 🏠| [Automa](https://twitter.com/Ecstraaa) | Smartest Home Automation to allow seamless daily actions without command | [@Ecstraaa](https://twitter.com/Ecstraaa) | 🟧⬜️ | 
 | 🪙 | [fomogonewild](https://twitter.com/fomogonewild) | Crypto, Memes & Chaos... and some Blockchain Education! | [@fomogonewild](https://twitter.com/fomogonewild) | 🟧⬜️ | 
 | 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
 | 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
-| 🔧 | [IntelliHomeGuide](https://intellihomeguide.com/) | Empowering Your Connected Home: Smart Solutions for Effortless Living| [@IntelliHomeAI](https://twitter.com/IntelliHomeAI) | 🟧⬜️ | 
 | 🧼 | [Sanityde Cleaning Solutions](https://sanityde.com) | Pioneering Seamless & Scalable Solutions for the Service Industry| [@Jon_Mon_Jovi](https://twitter.com/Jon_Mon_Jovi) | 🟧⬜️ | 
 
 
