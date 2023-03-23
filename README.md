@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 159
+> Current Total: 160
 
 > Total Money Makers: 22
 # Categories
@@ -201,7 +201,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐉 | [Dungeon AI](https://twitter.com/jduong_dev/status/1637689839888789504) | AI Dungeon Master | [@jduong_dev](https://twitter.com/jduong_dev) | 🟧⬜️ |
 | 🕹️ | [OnEdge](https://twitter.com/papcor) | Exploring the World of Gaming | [@papcor](https://twitter.com/papcor) | 🟧⬜️ | 
 | 🗂️ | [Mana Mentor](https://twitter.com/ManaMentor) | Elevate Your Game: Personalized Deck Building and Performance Analysis for Magic: The Gathering | [@ManaMentor](https://twitter.com/ManaMentor) | 🟧⬜️ | 
+| 🎮 | [TheAIGameMaker](https://twitter.com/TheAIGameMaker) | Building an AI gaming studio.| [@TheAIGameMaker](https://twitter.com/TheAIGameMaker) | 🟧⬜️ | 
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🪦 | 
+
 
 
 
