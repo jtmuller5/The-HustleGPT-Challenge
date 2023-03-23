@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 154
+> Current Total: 155
 
 > Total Money Makers: 21
 # Categories
@@ -257,6 +257,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧳 | [Atlas Adventures](https://www.atlasadventures.travel/) | Discover Unforgettable Destinations Around the World | [@AtAdventureTrav](https://twitter.com/AtAdventureTrav) | 🟧⬜️ |
 | 🤣 | [MemeCraft](https://memecraft.ai) | Instant Memes, Endless Laughs | [@MemeCraftAI](https://twitter.com/MemeCraftAI) | 🟧⬜️ |
 | 💨 | [PuffPassports](https://www.puffpassports.com) | Explore The High Life | [@puffpassports](https://twitter.com/puffpassports) | 🟧⬜️ |
+| 💻 | [AutoSiteGenius](https://autositegenius.com/) | Custom Automated Websites for Your Unique Interests | [@AvivRoei](https://twitter.com/AvivRoei) | 🟧⬜️ |
 
 
 
