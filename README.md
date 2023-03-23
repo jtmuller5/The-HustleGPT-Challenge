@@ -88,7 +88,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 155
 
-> Total Money Makers: 21
+> Total Money Makers: 22
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -121,6 +121,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="gpt"></a> 🤖 ChatGPT and AI
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧🟩 | 
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) | 🟧🟩 |
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) | 🟧🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) | 🟧🟩  | 
@@ -148,7 +149,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤖 | [The DevOps Droid](http://www.thedevopsdroid.com/) |AI-powered DevOps assistant | [@roncrivera](https://twitter.com/roncrivera) | 🟧⬜️ |
 | 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) | 🟧⬜️ |
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
-| 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
@@ -340,6 +340,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="money"></a>🟩 Money Makers
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧🟩 | 
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧🟩 |
 |  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|  🟧🟩 |
 | 🏡 | [GreenovationMarket](https://greenovationmarket.com/) | Quality Sustainable Products for a Greener Tomorrow | [@Lauren_79](https://twitter.com/Lauren_79) | 🟧🟩  | 
