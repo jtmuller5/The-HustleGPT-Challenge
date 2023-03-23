@@ -340,6 +340,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="money"></a>🟩 Money Makers
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧🟩 |
 |  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|  🟧🟩 |
 | 🏡 | [GreenovationMarket](https://greenovationmarket.com/) | Quality Sustainable Products for a Greener Tomorrow | [@Lauren_79](https://twitter.com/Lauren_79) | 🟧🟩  | 
 | 🌱 | [Grow Wise](https://growwiseai.com/) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) |  🟧🟩 | 
