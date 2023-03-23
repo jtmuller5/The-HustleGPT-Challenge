@@ -88,7 +88,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 154
 
-> Total Money Makers: 20
+> Total Money Makers: 21
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -177,13 +177,13 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="art"></a> 🖌️ Art
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧🟩 |
 | 🪑 | [Liang Design](https://www.instagram.com/liang.design/?igshid=YmMyMTA2M2Y%3D) | Iconic design, in the palm of your hands | [@jjackyliang](https://twitter.com/jjackyliang) | 🟧🟩 | 
 | 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter | [@goern](https://twitter.com/goern) | 🟦⬜️ | 
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) | 🟧⬜️ |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) | 🟧⬜️ | 
 | 🕹️ | [Gaming Gear](https://twitter.com/HustleGPT_AI/status/1636786769709645824) | Gaming gear and tech affiliate website | [@HustleGPT_AI](https://twitter.com/HustleGPT_AI) | 🟧⬜️ | 
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
-| 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
 | 🌲| [EarthyArtExpressions](https://www.etsy.com/shop/EarthyArtExpressions) | Nature-Inspired Digital Art & Wall Decor| [@anthonygraindorge](https://www.linkedin.com/in/anthonygraindorge/) | 🟧⬜️ |
