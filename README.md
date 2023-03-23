@@ -134,7 +134,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧠 | [ChatGPT Connects](https://twitter.com/chatgptconnects/status/1637465225426522114) | Affordable, pay-per-use access to ChatGPT 4. | [@chatgptconnects](https://twitter.com/chatgptconnects) | 🟧⬜️ | 
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) | 🟧⬜️ | 
 |  ⚙️  | [EntrepreneurGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) | 🟧⬜️ |
-| 📜 | [HustleGPT-Chronicles](https://twitter.com/wallaiin/status/1637381253635928064) | Blog for stories covering AI-driven startups | [@wallaiin](https://twitter.com/wallaiin) | 🟧⬜️ | 
+| 📜 | [HustleGPT-Chronicles](https://hustlegptchronicles.wordpress.com/) | Blog for stories covering AI-driven startups | [@wallaiin](https://twitter.com/wallaiin) | 🟧⬜️ | 
 | 🫵 | [ItrainAI](https://twitter.com/AntonLtk/status/1638215116318449672?s=20) |Help AI Help You. A platform where humans can train AI models| [@AntonLtk](https://twitter.com/AntonLtk) | 🟧⬜️ |
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) | 🟧⬜️ | 
 | 🚙 | [Poetic Roadtrip](https://www.instagram.com/poeticroadtrips/) | Let GPT be an Influencer | [@permabaer](https://twitter.com/permabaer) | 🟧⬜️ |
