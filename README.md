@@ -84,7 +84,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 146
+> Current Total: 150
 
 > Total Money Makers: 21
 # Categories
@@ -112,7 +112,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧵 | [Sustainable Threads](https://www.sustainablethreads.net/) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
 | 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧⬜️ |
 | 🌏 | [planet Preservers](https://planetpreservers.com) |An eco-friendly store focused on providing sustainable products and reduce environmental impact| [@Cosmin17Dinu](https://twitter.com/Cosmin17Dinu) | 🟧⬜️ |
-
+| 🌏 | [Coolman](https://twitter.com/Blackte96348912) |Make the world cleaner and life more comfortable| [@Blackte96348912](https://twitter.com/Blackte96348912) | 🟧⬜️ |
 
 
 
@@ -183,6 +183,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
 | 🌲| [EarthyArtExpressions](https://www.etsy.com/shop/EarthyArtExpressions) | Nature-Inspired Digital Art & Wall Decor| [@anthonygraindorge](https://www.linkedin.com/in/anthonygraindorge/) | 🟧⬜️ |
+| 🖌️| [Painta](https://www.painta.io/) | Replicating Canva's functionality with Midjourney| [@paul_conyngham](https://twitter.com/paul_conyngham) | 🟧⬜️ |
 
 
 
@@ -278,7 +279,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) | 🟧⬜️ |
 | 📑 | [Realtor's Docs](https://www.realtorsdocs.com/) | Allowing today’s Real Estate agent to auto-generate their most common documents | [@VOIPCEO](https://twitter.com/VOIPCEO) | 🟧⬜️ |
 | 🧊 | [Custom Text-to-3DPrint Service](https://twitter.com/julius57675) | Transform your ideas into 3D reality with our AI-powered printing service. | [@julianjaffeit](https://www.linkedin.com/in/julianjaffeit/) | 🟧⬜️ |
-
+| 🏭 | [FactoryEase](https://twitter.com/FactoryEase) | Helping Chinese factory owners sell their products online to overseas customers | [@FactoryEase](https://twitter.com/FactoryEase) | 🟦⬜️ |
 
 
 
@@ -322,7 +323,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌊 | [MakeWave](https://twitter.com/MakeWaveNow) | Creating a powerful impact | [@MakeWaveNow](https://twitter.com/MakeWaveNow) | 🟧⬜️ | 
 | 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
 | 🧼 | [Sanityde Cleaning Solutions](https://sanityde.com) | Pioneering Seamless & Scalable Solutions for the Service Industry| [@Jon_Mon_Jovi](https://twitter.com/Jon_Mon_Jovi) | 🟧⬜️ | 
-
+| 🗳️ | [OpenDemocracyHub](https://twitter.com/shamanknowONE) | Looking to the future of democracy optimized by transcendent exponential technologies| [@shamanknowONE](https://twitter.com/shamanknowONE) | 🟦⬜️ | 
 
 
 
