@@ -39,12 +39,12 @@ Don't forget to:
 
 On March 14th, 2023, OpenAI announced their newest large language model (LLM), [GPT-4](https://openai.com/research/gpt-4). Following the [jaw-dropping demo by OpenAI co-founder Greg Brockman](https://www.youtube.com/watch?v=outcGtbnMuQ), the model took the internet by storm. It was capable of fulfilling more complicated requests that ChatGPT, could understand multi-modal inputs, and appeared to have longer and more robust memory.
 
-Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) on Twitter began a movement by prompting GPT-4 to become HustleGPT:
+Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) began a movement on Twitter by prompting GPT-4 to become HustleGPT:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47997351/225659396-701e93a1-beb5-48c4-88e0-fab4fba7f483.png" />
 </p>
 
-The goal of the HustleGPT challenge is to turn $100 into as much money as possible in the shortest amount of time possible by partnering with GPT-4 to varying degrees.
+The goal of the HustleGPT challenge is to build a business with an AI co-founder. In doing so you will learn an incredible amount about working with the world's most advanced chatbot and who knows...you might make a little bit of money 🚀💸
 <br>
 <br>
 # <a name="prompt"></a>💬 The Prompt
