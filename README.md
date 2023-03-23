@@ -84,7 +84,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 150
+> Current Total: 151
 
 > Total Money Makers: 21
 # Categories
@@ -280,7 +280,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📑 | [Realtor's Docs](https://www.realtorsdocs.com/) | Allowing today’s Real Estate agent to auto-generate their most common documents | [@VOIPCEO](https://twitter.com/VOIPCEO) | 🟧⬜️ |
 | 🧊 | [Custom Text-to-3DPrint Service](https://twitter.com/julius57675) | Transform your ideas into 3D reality with our AI-powered printing service. | [@julianjaffeit](https://www.linkedin.com/in/julianjaffeit/) | 🟧⬜️ |
 | 🏭 | [FactoryEase](https://twitter.com/FactoryEase) | Helping Chinese factory owners sell their products online to overseas customers | [@FactoryEase](https://twitter.com/FactoryEase) | 🟦⬜️ |
-
+| 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
 
 
 
