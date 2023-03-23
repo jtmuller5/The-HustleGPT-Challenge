@@ -82,7 +82,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 142
 
-> Total Money Makers: 18
+> Total Money Makers: 19
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -198,6 +198,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="products"></a> 👕 Products
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧🟩 | 
 |🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) | 🟧⬜️ |
 | 👕 | [IntelliTees.ai](http://www.intellitees.ai/) |AI designed t-shirts| [@intelliteesai](https://twitter.com/intelliteesai) | 🟧⬜️ |
@@ -206,7 +207,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🎛️ | [Sleek Minimalist](https://twitter.com/zalimidis/status/1636756649196261376) | Your go-to for affordable, high-quality minimalist products & gadgets. | [@zalimidis](https://twitter.com/zalimidis) | 🟧⬜️ |
 | 🖼️ | [Wallscapes Studio](https://twitter.com/KenobiDesigns/status/1636572257874219009) | Dropshipping Home Decor Products | [@KenobiDesigns](https://twitter.com/KenobiDesigns) | 🟧⬜️ | 
 | ☁️ | [CloudyCases](https://cloudycases.com/) | Super cute iPhone cases | [@ItsWaltBitch](https://twitter.com/ItsWaltBitch) | 🟧⬜️ |
-| 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧⬜️ | 
 | 🎧 | [Audiovault](https://twitter.com/alexandercafa/status/1637003665071542273) | Home and Personal Audio from Reputable Brands | [@alexandercafa](https://twitter.com/alexandercafa) | 🟧⬜️ | 
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Blog about space and science fiction litterature | [@StellarPathways](https://twitter.com/StellarPathways) | 🟧⬜️ |  
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
