@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 155
+> Current Total: 156
 
 > Total Money Makers: 22
 # Categories
@@ -287,6 +287,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏭 | [FactoryEase](https://twitter.com/FactoryEase) | Helping Chinese factory owners sell their products online to overseas customers | [@FactoryEase](https://twitter.com/FactoryEase) | 🟦⬜️ |
 | 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
 | 💲 | [nocodeworth](https://nocodeworth.com/) |Discover how much your nocode project is worth and where you can sell it | [@LeeLaunches](https://twitter.com/LeeLaunches) | 🟧⬜️ |
+| ☎️ | [Coitify](https://coitify.com/) |A virtual receptionist business | [@williamcoit](https://twitter.com/williamcoit) | 🟧⬜️ |
 
 
 
