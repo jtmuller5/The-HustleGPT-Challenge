@@ -204,7 +204,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧🟩 | 
-|🧶 | [Better Etsy](https://twitter.com/CharlieLima53/status/1637876616486330368) | Etsy store optimization | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
+|🧶 | [A Better Etsy Store](https://twitter.com/CharlieLima53/status/1637876616486330368) | Utilising AI to optimise and relaunch a Personalised Baby Clothing  Etsy Store. | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) | 🟧⬜️ |
 | 👕 | [IntelliTees.ai](http://www.intellitees.ai/) |AI designed t-shirts| [@intelliteesai](https://twitter.com/intelliteesai) | 🟧⬜️ |
 | 🐭| [Mousey Magic Ears](https://mouseymagicears.com/) | Sparking imagination with magical headbands and immersive digital tales for kids | [@MouseyMagicEars](https://twitter.com/MouseyMagicEars) | 🟧⬜️ |
