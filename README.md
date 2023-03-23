@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 145
 
-> Total Money Makers: 20
+> Total Money Makers: 21
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -158,7 +158,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
 | 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) | 🟧🟩  | 
-| 🍺 | [EcoSoberBrews](https://ecosoberbrews.com/) | Non Alcoholic / Eco Friendly Products | [@ecosoberbrews](https://twitter.com/ecosoberbrews) | 🟧⬜️ |
+| 🍺 | [EcoSoberBrews](https://ecosoberbrews.com/) | Non Alcoholic / Eco Friendly Products | [@ecosoberbrews](https://twitter.com/ecosoberbrews) | 🟧🟩 |
 | 🌮 | [TacoDownload](https://tacodownload.com/) | Tacos, Taco paraphernalia, and tasty recipes | [@TacoDownload](https://twitter.com/TacoDownload) | 🟧⬜️ | 
 | 🥙 | [Gourmet Savant](https://gourmetsavant.com/) | Food and beverage affiliate website | [@annieuoaky](https://twitter.com/annieuoaky) | 🟧⬜️ | 
 | 🔥 | [Keto Life HQ](https://twitter.com/TheUCFDad/status/1636416918985883663) | Dropshipping Ketogenic Lifestyle products through Shopify | [@TheUCFDad](https://twitter.com/TheUCFDad) | 🟧⬜️ | 
@@ -295,7 +295,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏔️| [Prodigy Minds](https://twitter.com/ProdigyMinds) |Pushing everyone to climb their mountain| [@ProdigyMinds](https://twitter.com/ProdigyMinds) | 🟧⬜️ |
 | 💪 | [VivoThrive](https://vivothrive.com) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) | 🟧⬜️ | 
 | 🧘 | [MindfulJourneyHQ](https://mindfuljourneyhq.com/) | Discover the Secret to a Happy Mind and Calm Heart | [@dimavogel](https://twitter.com/dimavogel) | 🟧⬜️ | 
-| ⛺️ | [Supacamp](https://twitter.com/louis_blythe_) | Whatever you can dream you can do | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
+| ⛺️ | [Supacamp](https://twitter.com/louis_blythe_) | The world's largest weekly AI treasure hunt! Get the kids out of the house and moving and have a fun activity that the whole family can play together. | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
 
 
 
