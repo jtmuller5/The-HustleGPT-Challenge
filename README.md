@@ -291,7 +291,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏔️| [Prodigy Minds](https://twitter.com/ProdigyMinds) |Pushing everyone to climb their mountain| [@ProdigyMinds](https://twitter.com/ProdigyMinds) | 🟧⬜️ |
 | 💪 | [VivoThrive](https://vivothrive.com) | Empowering Your Wellness Journey | [@London_lady](https://twitter.com/London_lady) | 🟧⬜️ | 
 | 🧘 | [MindfulJourneyHQ](https://mindfuljourneyhq.com/) | Discover the Secret to a Happy Mind and Calm Heart | [@dimavogel](https://twitter.com/dimavogel) | 🟧⬜️ | 
-| 🧘 | [Supacamp](https://twitter.com/louis_blythe_) | Whatever you can dream you can do | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
+| ⛺️ | [Supacamp](https://twitter.com/louis_blythe_) | Whatever you can dream you can do | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
 
 
 
