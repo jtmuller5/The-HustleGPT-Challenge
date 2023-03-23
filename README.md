@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 160
+> Current Total: 161
 
 > Total Money Makers: 22
 # Categories
@@ -338,7 +338,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📊 | [Life](https://citynest.web.app/Home.html) | A social marketplace with progress tracking | [@Kevstar0](https://twitter.com/Kevstar0) | 🟧⬜️ | 
 | 🧼 | [Sanityde Cleaning Solutions](https://sanityde.com) | Pioneering Seamless & Scalable Solutions for the Service Industry| [@Jon_Mon_Jovi](https://twitter.com/Jon_Mon_Jovi) | 🟧⬜️ | 
 | 🗳️ | [OpenDemocracyHub](https://twitter.com/shamanknowONE) | Looking to the future of democracy optimized by transcendent exponential technologies| [@shamanknowONE](https://twitter.com/shamanknowONE) | 🟦⬜️ | 
-
+| 👴 | [Cocaine Grandpa](https://cocainegrandpa.com) | Distributing accurate and affordable test kits, that even your grandpa would trust| [@iamliamo](https://twitter.com/iamliamo) | 🟧⬜️ | 
 
 
 <br>
