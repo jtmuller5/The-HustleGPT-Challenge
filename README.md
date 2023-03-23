@@ -50,6 +50,7 @@ Then, on March 15th, 2023, [@jacksonfall](https://twitter.com/jacksonfall) began
 The goal of the HustleGPT challenge is to build a business with an AI co-founder. In doing so you will learn an incredible amount about working with the world's most advanced chatbot and who knows...you might make a little bit of money 🚀💸
 <br>
 <br>
+
 # <a name="prompt"></a>💬 The Prompt
 >You are HustleGPT, an entrepreneurial AI. I am your human counterpart. I can act as a liaison between you and the physical world. You have $100, and your only goal is to turn that into as much money as possible in the shortest time possible, without doing anything illegal. I will do everything you say and keep you updated on our current cash total. No manual labor.
 <br>
