@@ -24,6 +24,8 @@ Don't forget to:
 
 [💸 Ventures](#ventures)
 
+[🟩 Money Makers](#money)
+
 [🚀 Join](#join)
 
 [📰 In the Press](#press)
@@ -86,7 +88,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 154
 
-> Total Money Makers: 21
+> Total Money Makers: 20
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -330,6 +332,33 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🗳️ | [OpenDemocracyHub](https://twitter.com/shamanknowONE) | Looking to the future of democracy optimized by transcendent exponential technologies| [@shamanknowONE](https://twitter.com/shamanknowONE) | 🟦⬜️ | 
 
 
+
+<br>
+<br>
+
+# <a name="money"></a>🟩 Money Makers
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+|  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|  🟧🟩 |
+| 🏡 | [GreenovationMarket](https://greenovationmarket.com/) | Quality Sustainable Products for a Greener Tomorrow | [@Lauren_79](https://twitter.com/Lauren_79) | 🟧🟩  | 
+| 🌱 | [Grow Wise](https://growwiseai.com/) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) |  🟧🟩 | 
+| 🍸 | [BarBot AI](https://apps.apple.com/us/app/barbot-ai/id1669668242) | Bring the power of AI to your Home Bar | [@JunaidDawud](https://twitter.com/JunaidDawud) | 🟧🟩  | 
+| 🍺 | [EcoSoberBrews](https://ecosoberbrews.com/) | Non Alcoholic / Eco Friendly Products | [@ecosoberbrews](https://twitter.com/ecosoberbrews) | 🟧🟩 |
+| 🪑 | [Liang Design](https://www.instagram.com/liang.design/?igshid=YmMyMTA2M2Y%3D) | Iconic design, in the palm of your hands | [@jjackyliang](https://twitter.com/jjackyliang) | 🟧🟩 | 
+| 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧🟩 | 
+|🧶 | [A Better Etsy Store](https://twitter.com/CharlieLima53/status/1637876616486330368) | Utilising AI to optimise and relaunch a Personalised Baby Clothing  Etsy Store. | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
+| 🐕 | [Green Paws & Petals](https://www.greenpawsandpetals.co.uk/) | Online store for eco-friendly and sustainable pet products | [@jonathans_blog](https://twitter.com/jonathans_blog) | 🟧🟩 |
+| 🎴 | [Card Pioneers](https://massive-advantage-471687.framer.app/) | Crafting immersive digital card games for all ages | [@CardPioneers](https://twitter.com/CardPioneers) | 🟧🟩  | 
+| 🌌 | [AI Unbound](https://www.dreamulatorgame.com/) | A game crafted by both human and artificial minds | [@dreamulatorgame](https://twitter.com/dreamulatorgame) | 🟧🟩 | 
+|  🐶 | [FurryFriendsSupplyCo](https://twitter.com/FurrySupplyCo) | Pet Product Supplier | [@FurrySupplyCo](https://twitter.com/FurrySupplyCo) | 🟧🟩 | 
+| 🐦 | [TweetSphere](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟧🟩 |
+| 🔧 | [IntelliHomeGuide](https://intellihomeguide.com/) | Empowering Your Connected Home: Smart Solutions for Effortless Living| [@IntelliHomeAI](https://twitter.com/IntelliHomeAI) | 🟧🟩 | 
+| 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) | 🟧🟩 |
+| 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) | 🟧🟩 | 
+| 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) | 🟧🟩  | 
+|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |  🟧🟩 |
+| 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
+| 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) |  🟦🟩 |
 
 <br>
 <br>
