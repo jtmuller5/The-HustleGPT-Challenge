@@ -83,7 +83,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 144
+> Current Total: 145
 
 > Total Money Makers: 19
 # Categories
@@ -125,6 +125,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
 | 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) |  🟦🟩 |
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) | 🟦⬜️  | 
+| ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ |
 | ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) | 🟧⬜️ | 
 | 🧠 | [ChatGPT Connects](https://twitter.com/chatgptconnects/status/1637465225426522114) | Affordable, pay-per-use access to ChatGPT 4. | [@chatgptconnects](https://twitter.com/chatgptconnects) | 🟧⬜️ | 
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) | 🟧⬜️ | 
@@ -147,9 +148,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
-| 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ | 
-| ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ | 
-
+| 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
+| 🧑‍🔧 | [Hey Roger](https://woolen-parade-2f9.notion.site/Meet-Roger-Your-AI-Powered-Butler-6779e45c2eb040d88e67adff05338933) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@HeyRogerXYZ](https://twitter.com/HeyRogerXYZ) | 🟧⬜️ | 
 
 
 
