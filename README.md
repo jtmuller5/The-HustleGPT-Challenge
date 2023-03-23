@@ -84,7 +84,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 151
+> Current Total: 152
 
 > Total Money Makers: 21
 # Categories
@@ -151,6 +151,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
 | 🧑‍🔧 | [Hey Roger](https://woolen-parade-2f9.notion.site/Meet-Roger-Your-AI-Powered-Butler-6779e45c2eb040d88e67adff05338933) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@HeyRogerXYZ](https://twitter.com/HeyRogerXYZ) | 🟧⬜️ | 
+| 📊 | [Astronomik](https://astronomik.co/) |Empowering AI with quality data. | [@emergingtechguy](https://twitter.com/emergingtechguy) | 🟧⬜️ | 
+
 
 
 
