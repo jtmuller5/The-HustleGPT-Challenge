@@ -84,7 +84,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 152
+> Current Total: 153
 
 > Total Money Makers: 21
 # Categories
@@ -311,6 +311,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) | 🟧⬜️ |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) | 🟧⬜️ | 
 |   📄 | [DocChat](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Creating immersive textbook learning for any text book | [@nos_ult](https://twitter.com/nos_ult) | 🟧⬜️ | 
+| 🪟 | [glassmap](https://glassmap.in) | Free education | [@glassmap](https://glassmap.in) | 🟧⬜️ | 
 
 
 
