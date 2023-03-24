@@ -61,7 +61,6 @@ The goal of the HustleGPT challenge is to build a business with an AI co-founder
 # <a name="guide"></a>🗺️ The Guide
 
 > Built with HustleGPT
-
 | [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
 |----- |
 |<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
@@ -202,7 +201,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🕹️ | [OnEdge](https://twitter.com/papcor) | Exploring the World of Gaming | [@papcor](https://twitter.com/papcor) | 🟧⬜️ | 
 | 🗂️ | [Mana Mentor](https://twitter.com/ManaMentor) | Elevate Your Game: Personalized Deck Building and Performance Analysis for Magic: The Gathering | [@ManaMentor](https://twitter.com/ManaMentor) | 🟧⬜️ | 
 | 🎮 | [TheAIGameMaker](https://twitter.com/TheAIGameMaker) | Building an AI gaming studio.| [@TheAIGameMaker](https://twitter.com/TheAIGameMaker) | 🟧⬜️ | 
-| 📓| [GeekLog](https://twitter.com/TheAIGameMaker) | GeekLog empowers gaming and movie enthusiasts to effortlessly manage their entertainment backlogs.| [@bonesso](https://twitter.com/bonesso) | 🟧⬜️ | 
+| 📓| [GeekLog](https://geeklog.me) | GeekLog empowers gaming and movie enthusiasts to effortlessly manage their entertainment backlogs.| [@bonesso](https://twitter.com/bonesso) | 🟧⬜️ | 
 | 🕹️ | [GameSpectrum](https://twitter.com/therealwurtzel/status/1637209501748043776) | Exploring the World of Gaming | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🪦 | 
 
 
