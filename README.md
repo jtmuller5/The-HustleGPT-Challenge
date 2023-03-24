@@ -87,7 +87,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 172
 
-> Total Money Makers: 22
+> Total Money Makers: 25
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -120,6 +120,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="gpt"></a> 🤖 ChatGPT and AI
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+|🗣️ | [ConversAI](https://conversai.co/) |Revolutionizing the way people communicate online | [@samasante](https://twitter.com/samasante) | 🟧🟩 | 
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧🟩 | 
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) | 🟧🟩 |
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) | 🟧🟩 | 
@@ -153,7 +154,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
 | 🧑‍🔧 | [Hey Roger](https://woolen-parade-2f9.notion.site/Meet-Roger-Your-AI-Powered-Butler-6779e45c2eb040d88e67adff05338933) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@HeyRogerXYZ](https://twitter.com/HeyRogerXYZ) | 🟧⬜️ | 
 | 📊 | [Astronomik](https://astronomik.co/) |Empowering AI with quality data. | [@emergingtechguy](https://twitter.com/emergingtechguy) | 🟧⬜️ | 
-|🗣️ | [ConversAI](https://conversai.co/) |Revolutionizing the way people communicate online | [@samasante](https://twitter.com/samasante) | 🟧⬜️ | 
 
 
 
@@ -213,6 +213,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="products"></a> 👕 Products
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🟩 | 
 | 🤬 | [Savage Cards](https://twitter.com/byhazellim/status/1636825301350006791) | An Extremely Rude Greeting Card Generator | [@byhazellim](https://twitter.com/byhazellim) | 🟧🟩 | 
 |🧶 | [A Better Etsy Store](https://twitter.com/CharlieLima53/status/1637876616486330368) | Utilising AI to optimise and relaunch a Personalised Baby Clothing  Etsy Store. | [@CharlieLima53](https://twitter.com/CharlieLima53) |🟧🟩|
 | 🏠 | [The Urban Decorator](https://theurbandecorator.com/) | Home Goods Store | [@MVCancik](https://twitter.com/MVCancik) | 🟧🟩 |
@@ -226,7 +227,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🪐 | [StellarPathways AI](https://twitter.com/StellarPathways) | Blog about space and science fiction litterature | [@StellarPathways](https://twitter.com/StellarPathways) | 🟧⬜️ |  
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
 | ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
-| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧⬜️ | 
 | 🧑‍🎨 | [Ara Ara](https://www.araara.shop/) | Community driven clothing for artists | [@Ara_Ara_Apparel](https://twitter.com/Ara_Ara_Apparel) | 🟧⬜️ | 
 | 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://twitter.com/hitthelipbalm) | 🟧⬜️ | 
 | 💋 | [Black Gold Beauty](https://black-gold-beauty.webflow.io) | Your natural beauty solution | [@blackgoldbty](https://twitter.com/blackgoldbty) | 🟧⬜️ | 
@@ -273,6 +273,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="business"></a> 🛠️ Business Resources
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🥨 | [InterTwined Being Consulting](https://theintertwined.life) |Empowering Human-AI Synergy for Limitless Possibilities | [@s001nft](https://twitter.com/s001nft) | 🟧🟩 |
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦⬜️ | 
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
 | 👦 | [PersonalizeMe](https://twitter.com/NavalGujrati/status/1637127360993701890?t=puLFr362SGmNm49cdgHvrw&s=19) |Affiliate marketing for items that can be personalized | [@NavalGujrati](https://twitter.com/NavalGujrati) | 🟧⬜️ | 
@@ -297,7 +298,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
 | 💲 | [nocodeworth](https://nocodeworth.com/) |Discover how much your nocode project is worth and where you can sell it | [@LeeLaunches](https://twitter.com/LeeLaunches) | 🟧⬜️ |
 | ☎️ | [Coitify](https://coitify.com/) |A virtual receptionist business | [@williamcoit](https://twitter.com/williamcoit) | 🟧⬜️ |
-| 🥨 | [InterTwined Being Consulting](https://theintertwined.life) |Empowering Human-AI Synergy for Limitless Possibilities | [@s001nft](https://twitter.com/s001nft) | 🟧⬜️ |
 
 
 
@@ -357,6 +357,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="money"></a>🟩 Money Makers
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+|🗣️ | [ConversAI](https://conversai.co/) |Revolutionizing the way people communicate online | [@samasante](https://twitter.com/samasante) | 🟧🟩 | 
+| 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🟩 | 
+| 🥨 | [InterTwined Being Consulting](https://theintertwined.life) |Empowering Human-AI Synergy for Limitless Possibilities | [@s001nft](https://twitter.com/s001nft) | 🟧🟩 |
 | 👩‍🦲 | [Iris AI](https://apps.apple.com/ch/app/iris-ai-video-art-generator/id1672982186?l=en) | AI Video Avatar generations | [@adel_djema](https://twitter.com/adel_djema) | 🟧🟩 | 
 | 🖼️ | [Art Venture AI](https://www.etsy.com/shop/artventureai/?etsrc=sdt) | Printable Coloring Books / Art (AI & digital drawings) | [@ArtVentureGo](https://twitter.com/ArtVentureGo) | 🟧🟩 |
 |  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|  🟧🟩 |
