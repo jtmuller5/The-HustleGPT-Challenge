@@ -416,7 +416,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 <br>
 <br>
 # <a name="hype"></a>🔥 Follow the Hype
-Follow the [Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20), an ever-changing collection of all the folks participating in the challenge.
+
+🚀 Submit your Hustle to be added to the official [HustleGPT Twitter Community](https://twitter.com/i/communities/1639306177874886656)
+
+🐦 Follow the [Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20), an ever-changing collection of all the folks participating in the challenge
 
 ☀️ The daily [#HustleGPTDaily](https://twitter.com/search?q=%40Banjoe__%20%23HustleGPTDaily&src=typed_query) Twitter thread
 
