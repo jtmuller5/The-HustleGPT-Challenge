@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 169
+> Current Total: 170
 
 > Total Money Makers: 21
 # Categories
@@ -187,7 +187,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
 | 🌲| [EarthyArtExpressions](https://www.etsy.com/shop/EarthyArtExpressions) | Nature-Inspired Digital Art & Wall Decor| [@anthonygraindorge](https://www.linkedin.com/in/anthonygraindorge/) | 🟧⬜️ |
 | 🖌️| [Painta](https://www.painta.io/) | Replicating Canva's functionality with Midjourney| [@paul_conyngham](https://twitter.com/paul_conyngham) | 🟧⬜️ |
-
+| 🥁| [Beats](https://www.youtube.com/@prodbyjah651/videos) | Making Beats for rappers| [@jah__music](https://twitter.com/jah__music) | 🟧⬜️ |
 
 
 
