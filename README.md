@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 170
+> Current Total: 171
 
 > Total Money Makers: 21
 # Categories
@@ -346,6 +346,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ⤴️ | [UNSubscribe](https://twitter.com/gaganbhatiaml) | Unsubscribe smarter, save bigger with our subscription management app powered by AI| [@gaganbhatiaml](https://twitter.com/gaganbhatiaml) | 🟧⬜️ | 
 | 🔒 | [GasketAI](https://gasketai.com) | Seal it with intelligence| [@floater370](https://twitter.com/floater370) | 🟧⬜️ | 
 | 👷 | [Building & Growing](https://bit.ly/bgnbrianwongjh) | A community web3 enthusiasts, remote workers, creators and founders alike.| [@Brianwongjhh](https://twitter.com/Brianwongjhh) | 🟧⬜️ | 
+| 📉 | [SpeculateGPT](https://twitter.com/SpeculateGPT) | Using GPT to speculate on stock options| [@bzqzheng](https://twitter.com/bzqzheng) | 🟧⬜️ | 
 
 
 <br>
