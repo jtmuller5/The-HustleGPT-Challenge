@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 172
+> Current Total: 173
 
 > Total Money Makers: 25
 # Categories
@@ -318,6 +318,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧘 | [MindfulJourneyHQ](https://mindfuljourneyhq.com/) | Discover the Secret to a Happy Mind and Calm Heart | [@dimavogel](https://twitter.com/dimavogel) | 🟧⬜️ | 
 | ⛺️ | [Supacamp](https://twitter.com/louis_blythe_) | The world's largest weekly AI treasure hunt! Get the kids out of the house and moving and have a fun activity that the whole family can play together. | [@louis_blythe_](https://twitter.com/louis_blythe_) | 🟧⬜️ | 
 | ⚒️ | [ForgeTactical](https://twitter.com/ForgeTactical) | Forging elite fitness | [@ForgeTactical](https://twitter.com/ForgeTactical) | 🟧⬜️ | 
+| 🏃‍♀️| [FitGPT](https://twitter.com/meltemique/status/1639296604145438722) | Achieving fitness goals with GPT-4 | [@meltemique](https://twitter.com/meltemique) | 🟧⬜️ | 
+
 
 
 
