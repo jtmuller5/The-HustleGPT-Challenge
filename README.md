@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 165
+> Current Total: 166
 
 > Total Money Makers: 21
 # Categories
@@ -227,7 +227,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧑‍🎨 | [Ara Ara](https://www.araara.shop/) | Community driven clothing for artists | [@Ara_Ara_Apparel](https://twitter.com/Ara_Ara_Apparel) | 🟧⬜️ | 
 | 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://twitter.com/hitthelipbalm) | 🟧⬜️ | 
 | 💋 | [Black Gold Beauty](https://black-gold-beauty.webflow.io) | Your natural beauty solution | [@blackgoldbty](https://twitter.com/blackgoldbty) | 🟧⬜️ | 
-
+| 🍃 | [Alchemy Parfums](https://twitter.com/AIchemyParfums) | AI powered scents! | [@7anooch](https://twitter.com/7anooch) | 🟧⬜️ | 
 
 
 ## <a name="pets"></a> 🦮 Pets
