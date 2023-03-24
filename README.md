@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 171
+> Current Total: 172
 
 > Total Money Makers: 22
 # Categories
@@ -170,6 +170,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🍏 | [Buidler Bites](https://twitter.com/BuidlerBites/status/1636592697015164928) | Fueling web3 natives with curated meal plans, meal replacements & supplements! | [@BuidlerBites](https://twitter.com/BuidlerBites) | 🟧⬜️ | 
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) | 🟧⬜️ |
 | 🔪 | [Sustainable Chef](https://sustainablechef.store/) | Following and selling eco friendly kitchen appliances| [@sustainablechefofficial](https://instagram.com/sustainablechefofficial?igshid=N2JhNDIwYjc=) | 🟧⬜️ |
+| 🧑‍🍳 | [The AI Chef](https://twitter.com/The_AiChef) | An AI powered chef| [@Ochowongo](https://twitter.com/Ochowongo) | 🟧⬜️ |
+
+
 
 
 
