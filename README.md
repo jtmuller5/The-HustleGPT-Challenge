@@ -229,7 +229,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧔‍♂️ | [AnuBeard](https://anubeard.com) | Ancient Wisdom of Beard Growth and Grooming | [@anubeard](https://twitter.com/anubeard) | 🟧⬜️ | 
 | ⌚️ | [Wonder of Watches](https://www.wonderofwatches.com) | Luxury design watches without the luxury price tag | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
 | 🧑‍🎨 | [Ara Ara](https://www.araara.shop/) | Community driven clothing for artists | [@Ara_Ara_Apparel](https://twitter.com/Ara_Ara_Apparel) | 🟧⬜️ | 
-| 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://twitter.com/hitthelipbalm) | 🟧⬜️ | 
+| 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://www.instagram.com/oibkahuna/) | 🟧⬜️ | 
 | 💋 | [Black Gold Beauty](https://black-gold-beauty.webflow.io) | Your natural beauty solution | [@blackgoldbty](https://twitter.com/blackgoldbty) | 🟧⬜️ | 
 | 🍃 | [Alchemy Parfums](https://twitter.com/AIchemyParfums) | AI powered scents! | [@7anooch](https://twitter.com/7anooch) | 🟧⬜️ | 
 
