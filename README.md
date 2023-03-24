@@ -61,6 +61,7 @@ The goal of the HustleGPT challenge is to build a business with an AI co-founder
 # <a name="guide"></a>🗺️ The Guide
 
 > Built with HustleGPT
+
 | [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
 |----- |
 |<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
