@@ -88,7 +88,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 162
 
-> Total Money Makers: 22
+> Total Money Makers: 21
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -127,7 +127,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) | 🟧🟩  | 
 |  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |  🟧🟩 |
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
-| 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) |  🟦🟩 |
+| 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) |  🟦⬜️ |
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) | 🟦⬜️  | 
 | ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ |
 | ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) | 🟧⬜️ | 
@@ -368,7 +368,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) | 🟧🟩  | 
 |  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |  🟧🟩 |
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
-| 👥 | [HustleGPT Discord](https://jacksonfall.gumroad.com/l/hustlegpt) | Join the HustleGPT Community! | [@davecraige](https://twitter.com/davecraige) |  🟦🟩 |
 
 <br>
 <br>
