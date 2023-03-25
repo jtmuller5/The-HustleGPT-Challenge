@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 179
+> Current Total: 180
 
 > Total Money Makers: 26
 # Categories
@@ -302,7 +302,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💲 | [nocodeworth](https://nocodeworth.com/) |Discover how much your nocode project is worth and where you can sell it | [@LeeLaunches](https://twitter.com/LeeLaunches) | 🟧⬜️ |
 | ☎️ | [Coitify](https://coitify.com/) |A virtual receptionist business | [@williamcoit](https://twitter.com/williamcoit) | 🟧⬜️ |
 | 🧑‍💻 | [MIDSI](http://midsi.academy/) |Get clients for data engineering consulting | [@midsi](https://www.linkedin.com/company/midsi/) | 🟧⬜️ |
-
+| 🗄️ | [Deskwise](https://twitter.com/crappbrannigan/status/1639151037805391872?s=20) |Simplifying your workspace | [@crappbrannigan](https://twitter.com/crappbrannigan) | 🟧⬜️ |
 
 
 
