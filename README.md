@@ -430,7 +430,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 ☀️ The daily [#HustleGPTDaily](https://twitter.com/search?q=%40Banjoe__%20%23HustleGPTDaily&src=typed_query) Twitter thread
 
-
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
