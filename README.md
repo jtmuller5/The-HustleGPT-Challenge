@@ -88,7 +88,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 177
 
-> Total Money Makers: 25
+> Total Money Makers: 26
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -108,11 +108,11 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 |  ♻️ | [Green Gadget Guru](https://www.greengadgetguru.com/) | Discover the Best Eco-Friendly Products & Tips for Sustainable Living. |  [@jacksonfall](https://twitter.com/jacksonfall)|  🟧🟩 |
 | 🏡 | [GreenovationMarket](https://greenovationmarket.com/) | Quality Sustainable Products for a Greener Tomorrow | [@Lauren_79](https://twitter.com/Lauren_79) | 🟧🟩  | 
+| 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧🟩 |
 | 🌱 | [Grow Wise](https://growwiseai.com/) | Providing AI generated solutions for gardeners | [@ZiggyCrypto](https://twitter.com/ZiggyCrypto) |  🟧🟩 | 
 | 🍃 | [Restimuli](https://twitter.com/celue/status/1636721245491191809) | ESG Sustainability is your passport for the future | [@celue](https://twitter.com/celue) | 🟧⬜️ | 
 | 🎽 | [SnuggleStyle](https://snugglestyle.co/) | Discover the very best in sustainable children's clothing | [@Vote1QLDnow](https://twitter.com/Vote1QLDnow) | 🟧⬜️ |
 | 🧵 | [Sustainable Threads](https://www.sustainablethreads.net/) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
-| 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧⬜️ |
 | 🌏 | [planet Preservers](https://planetpreservers.com) |An eco-friendly store focused on providing sustainable products and reduce environmental impact| [@Cosmin17Dinu](https://twitter.com/Cosmin17Dinu) | 🟧⬜️ |
 | ⛄️| [Coolman](https://twitter.com/Blackte96348912) |Make the world cleaner and life more comfortable| [@Blackte96348912](https://twitter.com/Blackte96348912) | 🟧⬜️ |
 
@@ -364,6 +364,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="money"></a>🟩 Money Makers
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧🟩 |
 |🗣️ | [ConversAI](https://conversai.co/) |Revolutionizing the way people communicate online | [@samasante](https://twitter.com/samasante) | 🟧🟩 | 
 | 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🟩 | 
 | 🥨 | [InterTwined Being Consulting](https://theintertwined.life) |Empowering Human-AI Synergy for Limitless Possibilities | [@s001nft](https://twitter.com/s001nft) | 🟧🟩 |
