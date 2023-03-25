@@ -85,10 +85,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-
-> Current Total: 180
+> Current Total: 181
 
 > Total Money Makers: 26
+
 # Categories
 - 🌱 [Eco-Friendly](#eco)
 - 🤖 [ChatGPT and AI](#gpt)
@@ -358,6 +358,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📉 | [SpeculateGPT](https://twitter.com/SpeculateGPT) | Using GPT to speculate on stock options| [@bzqzheng](https://twitter.com/bzqzheng) | 🟧⬜️ | 
 |🙋 | [Your Breast Guess](https://twitter.com/MrRise2) | Saving the world one guess at a time| [@MrRise2](https://twitter.com/MrRise2) | 🟧⬜️ | 
 |📔 | [DailyQuipper](https://dailyquipper.com/) | Giving new meaning to the death of journalism.| [@dailyquipper](https://twitter.com/dailyquipper) | 🟧⬜️ | 
+|✍️ | [Henshu.ai](https://www.henshu.ai/) | Transform your content from ordinary to extraordinary using our AI-powered editor| [@productive_mayt](https://twitter.com/productive_mayt) | 🟧⬜️ | 
 
 
 <br>
