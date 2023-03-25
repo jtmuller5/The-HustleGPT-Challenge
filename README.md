@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 177
+> Current Total: 178
 
 > Total Money Makers: 26
 # Categories
@@ -115,6 +115,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧵 | [Sustainable Threads](https://www.sustainablethreads.net/) | Aggregator of Eco-Fashion Brands | [@sustythreads](https://twitter.com/sustythreads) | 🟧⬜️ | 
 | 🌏 | [planet Preservers](https://planetpreservers.com) |An eco-friendly store focused on providing sustainable products and reduce environmental impact| [@Cosmin17Dinu](https://twitter.com/Cosmin17Dinu) | 🟧⬜️ |
 | ⛄️| [Coolman](https://twitter.com/Blackte96348912) |Make the world cleaner and life more comfortable| [@Blackte96348912](https://twitter.com/Blackte96348912) | 🟧⬜️ |
+| 🐅| [Vulnerable Targets](https://vulnerabletargets.my.canva.site/) |Supporting animal conservation through AI-driven innovation| [@LRKSaurs](https://twitter.com/LRKSaurs) | 🟧⬜️ |
 
 
 
