@@ -86,7 +86,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-> Current Total: 173
+> Current Total: 177
 
 > Total Money Makers: 25
 # Categories
@@ -155,6 +155,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
 | 🧑‍🔧 | [Hey Roger](https://woolen-parade-2f9.notion.site/Meet-Roger-Your-AI-Powered-Butler-6779e45c2eb040d88e67adff05338933) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@HeyRogerXYZ](https://twitter.com/HeyRogerXYZ) | 🟧⬜️ | 
 | 📊 | [Astronomik](https://astronomik.co/) |Empowering AI with quality data. | [@emergingtechguy](https://twitter.com/emergingtechguy) | 🟧⬜️ | 
+| ⌨️ | [/ai](https://typeslashai.com) |Use ChatGPT anywhere you type with a /ai command | [@ihorstefurak](https://twitter.com/ihorstefurak) | 🟧⬜️ | 
 
 
 
@@ -299,6 +300,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
 | 💲 | [nocodeworth](https://nocodeworth.com/) |Discover how much your nocode project is worth and where you can sell it | [@LeeLaunches](https://twitter.com/LeeLaunches) | 🟧⬜️ |
 | ☎️ | [Coitify](https://coitify.com/) |A virtual receptionist business | [@williamcoit](https://twitter.com/williamcoit) | 🟧⬜️ |
+| 🧑‍💻 | [MIDSI](http://midsi.academy/) |Get clients for data engineering consulting | [@midsi](https://www.linkedin.com/company/midsi/) | 🟧⬜️ |
 
 
 
@@ -352,6 +354,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🔒 | [GasketAI](https://gasketai.com) | Seal it with intelligence| [@floater370](https://twitter.com/floater370) | 🟧⬜️ | 
 | 👷 | [Building & Growing](https://bit.ly/bgnbrianwongjh) | A community web3 enthusiasts, remote workers, creators and founders alike.| [@Brianwongjhh](https://twitter.com/Brianwongjhh) | 🟧⬜️ | 
 | 📉 | [SpeculateGPT](https://twitter.com/SpeculateGPT) | Using GPT to speculate on stock options| [@bzqzheng](https://twitter.com/bzqzheng) | 🟧⬜️ | 
+|🙋 | [Your Breast Guess](https://twitter.com/MrRise2) | Saving the world one guess at a time| [@MrRise2](https://twitter.com/MrRise2) | 🟧⬜️ | 
+|📔 | [DailyQuipper](https://dailyquipper.com/) | Giving new meaning to the death of journalism.| [@dailyquipper](https://twitter.com/dailyquipper) | 🟧⬜️ | 
 
 
 <br>
