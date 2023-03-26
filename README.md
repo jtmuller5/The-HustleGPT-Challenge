@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 181
+> Current Total: 182
 
 > Total Money Makers: 26
 
@@ -246,8 +246,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🐈 | [TruPetParent](https://trupetparent.com/) | Nurturing the Bond Between Pets & Their Parents | [@Buildthebag](https://twitter.com/Buildthebag) | 🟧⬜️ | 
 | 🐕‍🦺 | [Prime Pet Products](https://twitter.com/KKingston46) | Sustainable pet products | [@KKingston46](https://twitter.com/KKingston46) | 🟧⬜️ | 
 | ✨| [Starbarks Pet Shop](https://twitter.com/mariewithasmile) | Putting a whole latte beauty into the world, one dog bed and toy at a time. | [@mariewithasmile](https://twitter.com/mariewithasmile) | 🟧⬜️ | 
-
-
+| 🦮 | [Aussi Shepherd Hub](https://aussieshepherdhub.com/) | Finding the best toys, training and grooming tools for Aussie Shepherds | [@aussieshephub](https://twitter.com/aussieshephub) | 🟧⬜️ | 
 
 
 
