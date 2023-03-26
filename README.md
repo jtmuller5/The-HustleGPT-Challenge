@@ -87,7 +87,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 > Current Total: 188
 
-> Total Money Makers: 26
+> Total Money Makers: 27
 
 # Categories
 - 🌱 [Eco-Friendly](#eco)
@@ -278,6 +278,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="business"></a> 🛠️ Business Resources
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) | 🟧🟩 | 
 | 🥨 | [InterTwined Being Consulting](https://theintertwined.life) |Empowering Human-AI Synergy for Limitless Possibilities | [@s001nft](https://twitter.com/s001nft) | 🟧🟩 |
 | 👩‍💻 | [Herizon.io](https://twitter.com/herizonio) | Non-profit with a mission of improving immigrant women employment in tech| [@mariluukkainen](https://twitter.com/mariluukkainen) |🟦⬜️ | 
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
@@ -293,7 +294,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏪 | [DigitalCreatorShop](https://digitalcreatorshop.co/) | Courses, Templates, Training for Creators | [@WendyMaynard](https://twitter.com/WendyMaynard) | 🟧⬜️ | 
 | 🎥 | [WeTube.ai](https://wetube.ai) |Your guide to getting started and growing on Youtube | [@chriswoods2009](https://twitter.com/chriswoods2009) | 🟧⬜️ |  
 | 🌊 | [The Web3 Wave](https://theweb3wave.carrd.co/) | Web3 Marketing Agency | [@Cryptoniard](https://twitter.com/Cryptoniard) | 🟧⬜️ | 
-| ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) | 🟧⬜️ | 
 | 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
 | 👨‍🦰 | [SmartPapa Consulting](https://twitter.com/smartpapreneur) | Empowering stay-at-home dads to succeed as caregivers and entrepreneurs. | [@meberl](https://twitter.com/meberl) | 🟧⬜️ | 
 | 🤑 | [Year of Getting Wealthy](https://yearofgettingwealthy.com/) | Helping you achieve financial success and entrepreneurial freedom | [@YOGWProject](https://twitter.com/YOGWProject) | 🟧⬜️ |
@@ -371,6 +371,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 # <a name="money"></a>🟩 Money Makers
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+| ✂️ | [SnippetSage](https://twitter.com/wooing0306/status/1636403665530654720) | Code snippets at your fingertips! | [@wooing0306](https://twitter.com/wooing0306) | 🟧🟩 | 
 | 🪴 | [smarterhometechnology](https://smarterhometechnology.com) |A sustainable marketplace| [@TRAVISCART15550](https://twitter.com/TRAVISCART15550) | 🟧🟩 |
 |🗣️ | [ConversAI](https://conversai.co/) |Revolutionizing the way people communicate online | [@samasante](https://twitter.com/samasante) | 🟧🟩 | 
 | 👕 | [NotoriousGPTees](https://notoriousgptees.com/) | GeekChic fashion by and about AI | [@therealwurtzel](https://twitter.com/therealwurtzel) | 🟧🟩 | 
