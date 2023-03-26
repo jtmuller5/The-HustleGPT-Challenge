@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 187
+> Current Total: 188
 
 > Total Money Makers: 26
 
@@ -271,6 +271,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 💻 | [AutoSiteGenius](https://autositegenius.com/) | Custom Automated Websites for Your Unique Interests | [@AvivRoei](https://twitter.com/AvivRoei) | 🟧⬜️ |
 | 💫 | [Mirage-Studio.io](https://mirage-studio.io) | AI powered social media content planner | [@daryl_imagineai](https://twitter.com/daryl_imagineai) | 🟧⬜️ |
 | 🇯🇵 | [Kurozora](https://kurozora.app/) |Your one-stop shop for everything anime! | [@KurozoraApp](https://twitter.com/KurozoraApp) | 🟧⬜️ |
+| 💤 | [Dreamcore Tales](https://www.dreamcoretales.com) |AI-Powered Literary Immersion | [@businessmaven1](https://twitter.com/businessmaven1) | 🟧⬜️ |
 
 
 
