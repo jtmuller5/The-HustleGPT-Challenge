@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 186
+> Current Total: 187
 
 > Total Money Makers: 26
 
@@ -194,6 +194,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖌️| [Painta](https://www.painta.io/) | Replicating Canva's functionality with Midjourney| [@paul_conyngham](https://twitter.com/paul_conyngham) | 🟧⬜️ |
 | 🥁| [Beats](https://www.youtube.com/@prodbyjah651/videos) | Making Beats for rappers| [@jah__music](https://twitter.com/jah__music) | 🟧⬜️ |
 | 📽️| [Little River Films](https://twitter.com/Tim__Lincecum/status/1639459775283904512?t=AdZg37Eakr-E5xVh_A2W-A&s=19) | An independent film studio managed by AI| [@Tim__Lincecum](https://twitter.com/Tim__Lincecum) | 🟧⬜️ |
+|🧑‍🎤| [DigiDuo](https://twitter.com/HiSohan/status/1640052587012706304) |The ultimate fusion of AI & human artistry| [@HiSohan](https://twitter.com/HiSohan) | 🟧⬜️ |
 
 
 
