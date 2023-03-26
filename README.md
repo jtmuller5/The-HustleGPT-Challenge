@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 185
+> Current Total: 186
 
 > Total Money Makers: 26
 
@@ -116,6 +116,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌏 | [planet Preservers](https://planetpreservers.com) |An eco-friendly store focused on providing sustainable products and reduce environmental impact| [@Cosmin17Dinu](https://twitter.com/Cosmin17Dinu) | 🟧⬜️ |
 | ⛄️| [Coolman](https://twitter.com/Blackte96348912) |Make the world cleaner and life more comfortable| [@Blackte96348912](https://twitter.com/Blackte96348912) | 🟧⬜️ |
 | 🐅| [Vulnerable Targets](https://vulnerabletargets.my.canva.site/) |Supporting animal conservation through AI-driven innovation| [@LRKSaurs](https://twitter.com/LRKSaurs) | 🟧⬜️ |
+| 0️⃣| [Zero Waste Zen](https://zerowastezen.com/) |Inspiring and empowering individuals to adopt a sustainable, waste-free lifestyle| [@gokhangala](https://twitter.com/gokhangala) | 🟧⬜️ |
 
 
 
