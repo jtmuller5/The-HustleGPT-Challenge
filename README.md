@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 184
+> Current Total: 185
 
 > Total Money Makers: 26
 
@@ -302,6 +302,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☎️ | [Coitify](https://coitify.com/) |A virtual receptionist business | [@williamcoit](https://twitter.com/williamcoit) | 🟧⬜️ |
 | 🧑‍💻 | [MIDSI](http://midsi.academy/) |Get clients for data engineering consulting | [@midsi](https://www.linkedin.com/company/midsi/) | 🟧⬜️ |
 | 🗄️ | [Deskwise](https://twitter.com/crappbrannigan/status/1639151037805391872?s=20) |Simplifying your workspace | [@crappbrannigan](https://twitter.com/crappbrannigan) | 🟧⬜️ |
+| 🦸 | [Superteam](https://getsuperteam.com/?l=en) |Enabling businesses with AI to run stellar Customer Service and Sales via WhatsApp, Instagram, Email, and iMessage | [@edumussali](https://twitter.com/edumussali) | 🟧⬜️ |
 
 
 
