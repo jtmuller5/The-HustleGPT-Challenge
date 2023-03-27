@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 195
+> Current Total: 196
 
 > Total Money Makers: 27
 
@@ -188,6 +188,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🖌️| [Painta](https://www.painta.io/) | Replicating Canva's functionality with Midjourney| [@paul_conyngham](https://twitter.com/paul_conyngham) | 🟧⬜️ |
 | 📽️| [Little River Films](https://twitter.com/Tim__Lincecum/status/1639459775283904512?t=AdZg37Eakr-E5xVh_A2W-A&s=19) | An independent film studio managed by AI| [@Tim__Lincecum](https://twitter.com/Tim__Lincecum) | 🟧⬜️ |
 |🧑‍🎤| [DigiDuo](https://twitter.com/HiSohan/status/1640052587012706304) |The ultimate fusion of AI & human artistry| [@HiSohan](https://twitter.com/HiSohan) | 🟧⬜️ |
+|🪄| [Digital Design Forge](https://twitter.com/digitaldesignfo) |Using the power of ai to help small businesses and entrepreneurs grow| [@RobBaldwinCEO](https://twitter.com/RobBaldwinCEO) | 🟧⬜️ |
 |🦋| [Artsaveswild](https://www.artsaveswild.com) |Empowering Art, Protecting Wildlife| [@artsaveswild](https://twitter.com/artsaveswild) | 🟧⬜️ |
 
 
