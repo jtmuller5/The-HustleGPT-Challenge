@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 201
+> Current Total: 202
 
 > Total Money Makers: 27
 
@@ -239,6 +239,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👄 | [Hit The Lip® Lip Balm](https://hitthelipbalm.com) | Vegan, Ocean-Friendly SPF30 Lip Balm designed for the beach. | [@hitthelipbalm](https://www.instagram.com/oibkahuna/) | 🟧⬜️ | 
 | 💋 | [Black Gold Beauty](https://black-gold-beauty.webflow.io) | Your natural beauty solution | [@blackgoldbty](https://twitter.com/blackgoldbty) | 🟧⬜️ | 
 | 🍃 | [Alchemy Parfums](https://twitter.com/AIchemyParfums) | AI powered scents! | [@7anooch](https://twitter.com/7anooch) | 🟧⬜️ | 
+| 👗 | [CheecoShop](https://cheecoshop.com/) |Chic Meets Eco | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
+
+
 
 
 ## <a name="pets"></a> 🦮 Pets
@@ -281,10 +284,9 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 | ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) | 🟧⬜️ |
 | 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) | 🟧⬜️ | 
-| 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
 | 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) | 🟧⬜️ | 
 | 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
-
+| 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧🪦|
 
 
 
