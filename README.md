@@ -362,6 +362,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |💸 | [Moneybots](https://moneybotsblog.wordpress.com) | The AI Driven Path For Success| [@money_bots](https://twitter.com/money_bots) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
 | 🔼 | [upskillgpt](http://upskillgpt.com/) |Empower Your Future: Upskill with AI and Share Your Success with the World | [@subhrajitdotme](https://twitter.com/subhrajitdotme) | 🟧⬜️ |
+| 🆙| [ThriveologyBasics](https://www.thriveologybasics.com) | Master life's essentials| [@TheThriveology](https://twitter.com/TheThriveology) | 🟧⬜️ | 
+
 
 
 
@@ -386,8 +388,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🤸| [moveguru.ai](https://twitter.com/moveguru_ai?s=21&t=vAk0C1kyioKkz54Op1zprA) | Strong body, strong mind, strong life | [@moveguru_ai](https://twitter.com/moveguru_ai) | 🟧⬜️ | 
 | 🧑‍⚕️| [Healthcare Worker Fitness](https://healthcareworkerfitness.com) | Connecting healthcare workers with the tools to live a healthier life | [@Mikethemike129](https://twitter.com/Mikethemike129) | 🟧⬜️ | 
 | 🥑| [CalorieChat](https://www.mycaloriechat.com/) | Top-notch fitness and nutrition content!| [@tsenyiubho](https://twitter.com/tsenyiubho) | 🟧⬜️ | 
-| 🆙| [ThriveologyBasics](https://www.thriveologybasics.com) | Master life's essentials| [@TheThriveology](https://twitter.com/TheThriveology) | 🟧⬜️ | 
-
 
 
 ## <a name="misc"></a> 🚀 Miscellaneous
