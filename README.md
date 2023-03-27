@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 191
+> Current Total: 192
 
 > Total Money Makers: 27
 
@@ -331,6 +331,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🏃‍♀️| [FitGPT](https://twitter.com/meltemique/status/1639296604145438722) | Achieving fitness goals with GPT-4 | [@meltemique](https://twitter.com/meltemique) | 🟧⬜️ | 
 | 🔨| [The Iron Ager](https://www.theironager.com) | Strong body, strong mind, strong life | [@TheIronAger](https://twitter.com/TheIronAger) | 🟧⬜️ | 
 | 🤸| [moveguru.ai](https://twitter.com/moveguru_ai?s=21&t=vAk0C1kyioKkz54Op1zprA) | Strong body, strong mind, strong life | [@moveguru_ai](https://twitter.com/moveguru_ai) | 🟧⬜️ | 
+| 🧑‍⚕️| [Healthcare Worker Fitness](https://healthcareworkerfitness.com) | Connecting healthcare workers with the tools to live a healthier life | [@Mikethemike129](https://twitter.com/Mikethemike129) | 🟧⬜️ | 
+
 
 
 
