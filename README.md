@@ -275,7 +275,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 | 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
 | 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) | 🟧⬜️ | 
-| 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
+| 👌 | [Validate OK](https://validateok.click/) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
 | ⚙️| [Compounding Machines](https://compoundingmachines.dev/) |On-Demand TypeScript Development for Startups | [@FabianSchucht](https://twitter.com/FabianSchucht) | 🟧⬜️ |
 
 
