@@ -129,7 +129,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👾| [GPT Craft](https://www.gptcraft.co/) | GPT-enabled google sheet templates | [@marcelc63](https://twitter.com/marcelc63) | 🟧🟩 |
 | 📒 | [GPT-4 Unlocked](https://www.amazon.com/dp/B0BYVC1VVK?ref_=cm_sw_r_cp_ud_dp_38P2KF1DQ112S8T7W2TS) | Unlock the Power of AI with GPT-4 Unlocked - Your Comprehensive Guide! | [@gpt4unlocked](https://twitter.com/gpt4unlocked) | 🟧🟩 | 
 | 💯 | [The 100k Homepage](https://twitter.com/the_ai_lecturer/status/1636787717228105728) | Advertising Services & Tools for AI / HustleGPT Ventures | [@the_ai_lecturer](https://twitter.com/the_ai_lecturer) | 🟧🟩  | 
-|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |  🟧🟩 |
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) | 🟦⬜️  | 
 | ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ |
@@ -188,16 +187,20 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🌸 | [Amelia Everbright](https://twitter.com/AquarelleLondn) | Amelia Everbright, a 30-year-old Londoner, writer and aquarelle painter | [@goern](https://twitter.com/goern) | 🟧⬜️ | 
 | 🖍️ | [The Coloring Nook](https://www.instagram.com/_thecoloringnook/) | Combining human artistry vision with ai innovation, to bring color to your world| [@_ColoringNook](https://twitter.com/_ColoringNook) | 🟧⬜️ |
 |  🐸  | [Epochs of Pepe](https://twitter.com/Legendary_NFT/status/1636325573709516801) | AI-generated NFT collection | [@Legendary_NFT](https://twitter.com/Legendary_NFT) | 🟧⬜️ | 
-| 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
 | 🎨 | [artiscale](https://www.etsy.com/pl/shop/artiscale?ref=simple-shop-header-name&listing_id=1429655058) |AI-generated digital prints with ChatGPT's guidance| [@Apuleius7](https://twitter.com/Apuleius7) | 🟧⬜️ |
 | 🖍️| [Colour Yourself Furious](https://www.amazon.co.uk/dp/B0BYRDXCDG?ref_=cm_sw_r_apan_dp_X8GWHG5E652SQKH72Z4M) |Adult colouring book guaranteed to raise your blood pressure| [@Brokebastards](https://twitter.com/Brokebastards) | 🟧⬜️ |
 | 🌲| [EarthyArtExpressions](https://www.etsy.com/shop/EarthyArtExpressions) | Nature-Inspired Digital Art & Wall Decor| [@anthonygraindorge](https://www.linkedin.com/in/anthonygraindorge/) | 🟧⬜️ |
 | 🖌️| [Painta](https://www.painta.io/) | Replicating Canva's functionality with Midjourney| [@paul_conyngham](https://twitter.com/paul_conyngham) | 🟧⬜️ |
-| 🥁| [Beats](https://www.youtube.com/@prodbyjah651/videos) | Making Beats for rappers| [@jah__music](https://twitter.com/jah__music) | 🟧⬜️ |
 | 📽️| [Little River Films](https://twitter.com/Tim__Lincecum/status/1639459775283904512?t=AdZg37Eakr-E5xVh_A2W-A&s=19) | An independent film studio managed by AI| [@Tim__Lincecum](https://twitter.com/Tim__Lincecum) | 🟧⬜️ |
 |🧑‍🎤| [DigiDuo](https://twitter.com/HiSohan/status/1640052587012706304) |The ultimate fusion of AI & human artistry| [@HiSohan](https://twitter.com/HiSohan) | 🟧⬜️ |
 |🦋| [Artsaveswild](https://www.artsaveswild.com) |Empowering Art, Protecting Wildlife| [@artsaveswild](https://twitter.com/artsaveswild) | 🟧⬜️ |
 
+
+### <a name="music"></a> 🎶 Art
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+| 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
+| 🥁| [Beats](https://www.youtube.com/@prodbyjah651/videos) | Making Beats for rappers| [@jah__music](https://twitter.com/jah__music) | 🟧⬜️ |
 
 
 ## <a name="games"></a> 🕹️ Games
@@ -341,6 +344,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 ## <a name="education"></a> 📚 Education
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
+|  🤖 | [ChatCode Tutor](https://twitter.com/Banjoe__/status/1636204171173982209) | Empowering Your Programming Journey with AI-Powered Conversations. | [@Banjoe__](https://twitter.com/Banjoe__) |  🟧🟩 |
 | 📚 | [HigherEd.Tech](https://twitter.com/Total_Payne/status/1637202455913181184) | Elevating HigherEd with Next-Gen Solutions | [@Total_Payne](https://twitter.com/Total_Payne) | 🟧⬜️ | 
 | 🤙| [Linguaplan](https://linguaplan.com) |Empower, Engage, Educate: Elevate Your ESL Teaching| [@benjaminrae93](https://twitter.com/benjaminrae93) | 🟧⬜️ |
 |  🗣️  | [SpeakSphere](https://twitter.com/MarkVisbeek/status/1636346990404435968) | Innovative language learning platform | [@visbeek.eth](https://twitter.com/MarkVisbeek) | 🟧⬜️ | 
