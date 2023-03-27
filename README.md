@@ -266,7 +266,17 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) | 🟧⬜️ |
 | 🔪 | [Sustainable Chef](https://sustainablechef.store/) | Following and selling eco friendly kitchen appliances| [@sustainablechefofficial](https://instagram.com/sustainablechefofficial?igshid=N2JhNDIwYjc=) | 🟧⬜️ |
 | 🧑‍🍳 | [The AI Chef](https://twitter.com/The_AiChef) | An AI powered chef| [@Ochowongo](https://twitter.com/Ochowongo) | 🟧⬜️ |
-| 🍔 | [MidgardBurgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | Crafting delicious handmade burgers | [@midgardburgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | 🟧⬜️ 
+| 🍔 | [MidgardBurgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | Crafting delicious handmade burgers | [@midgardburgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | 🟧⬜️ |
+
+
+
+## <a name="startups"></a> 🦄 For Startups
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+| 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
+| 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) | 🟧⬜️ | 
+| 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
+| ⚙️| [Compounding Machines](https://compoundingmachines.dev/) |On-Demand TypeScript Development for Startups | [@FabianSchucht](https://twitter.com/FabianSchucht) | 🟧⬜️ |
 
 
 
@@ -343,15 +353,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🍃 | [Alchemy Parfums](https://twitter.com/AIchemyParfums) | AI powered scents! | [@7anooch](https://twitter.com/7anooch) | 🟧⬜️ | 
 | 👗 | [CheecoShop](https://cheecoshop.com/) |Chic Meets Eco | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
 
-
-
-## <a name="startups"></a> 🦄 For Startups
-|  | Name | Description | Co-Founder | Status | 
-| -- | ---| ------ | ------ | ------ | 
-| 😎 | [Tate](https://tate-agency.com/) | We help niche early-stage companies to build a brand | [@tateagencyhq](https://twitter.com/tateagencyhq) | 🟧⬜️ |
-| 💡 | [Pitch Architect](https://pitcharchitect.app) | Guided startup pitch deck creation | [@PitchArchitect](https://twitter.com/PitchArchitect) | 🟧⬜️ | 
-| 👌 | [Validate OK](https://twitter.com/ahmednadar/status/1637254059894751234) | Platform where Indie Makers can validate their ideas | [@ahmednadar](https://twitter.com/ahmednadar) | 🟧⬜️ | 
-| ⚙️| [Compounding Machines](https://compoundingmachines.dev/) |On-Demand TypeScript Development for Startups | [@FabianSchucht](https://twitter.com/FabianSchucht) | 🟧⬜️ |
 
 
 ## <a name="wealth"></a> 💸 Wealth and Success
