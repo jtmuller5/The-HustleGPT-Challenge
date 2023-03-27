@@ -191,7 +191,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |🦋| [Artsaveswild](https://www.artsaveswild.com) |Empowering Art, Protecting Wildlife| [@artsaveswild](https://twitter.com/artsaveswild) | 🟧⬜️ |
 
 
-### <a name="music"></a> 🎶 Art
+### <a name="music"></a> 🎶 Music
 |  | Name | Description | Co-Founder | Status | 
 | -- | ---| ------ | ------ | ------ | 
 | 🚥 | [Neon Lights](https://twitter.com/JonnyOctober/status/1636373971380707328) | Music Driven NFTs | [@JonnyOctober](https://twitter.com/JonnyOctober) | 🟧⬜️ |
