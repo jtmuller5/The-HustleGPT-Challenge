@@ -132,27 +132,22 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🫀 | [Fast Life Coverage](https://twitter.com/1martinmatthews/status/1636796325558886400?s=46&t=_P78u1cut22FUbiYLjvWPw) | Using Ai to improve the life insurance buying experience for customers & agents | [@1MartinMatthews](https://twitter.com/1MartinMatthews) | 🟧🟩 | 
 | 🌎 | [Let AI Try](https://www.letaitry.org/) | Letting AI try to solve the world's problems | [@andrew_nyu](https://twitter.com/andrew_nyu) | 🟦⬜️  | 
 | ⁇ | [MindGuesser](https://www.mindguesser.com/) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@_ok_adrian](https://twitter.com/_ok_adrian) | 🟦⬜️ |
-| ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) | 🟧⬜️ | 
 | 🧠 | [ChatGPT Connects](https://twitter.com/chatgptconnects/status/1637465225426522114) | Affordable, pay-per-use access to ChatGPT 4. | [@chatgptconnects](https://twitter.com/chatgptconnects) | 🟧⬜️ | 
 | 🏆 | [GPT-4 Mastery](https://twitter.com/klabianco/status/1637136616849326082) | Unleash the Power of Next-Generation AI | [@klabianco](https://twitter.com/klabianco) | 🟧⬜️ | 
 |  ⚙️  | [EntrepreneurGPT](https://twitter.com/SigGravitas/status/1636293818080272385) | Autonomous GPT-4 | [@SigGravitas](https://twitter.com/SigGravitas) | 🟧⬜️ |
 | 📜 | [HustleGPT-Chronicles](https://hustlegptchronicles.wordpress.com/) | Blog for stories covering AI-driven startups | [@wallaiin](https://twitter.com/wallaiin) | 🟧⬜️ | 
 | 🫵 | [ItrainAI](https://twitter.com/AntonLtk/status/1638215116318449672?s=20) |Help AI Help You. A platform where humans can train AI models| [@AntonLtk](https://twitter.com/AntonLtk) | 🟧⬜️ |
-| 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) | 🟧⬜️ | 
 | 🚙 | [Poetic Roadtrip](https://www.instagram.com/poeticroadtrips/) | Let GPT be an Influencer | [@permabaer](https://twitter.com/permabaer) | 🟧⬜️ |
 |  🛠️  | [aitoolsdigest](https://twitter.com/Peter_Machowski/status/1636326789051039745) | AI Products Affiliate website | [@Peter_Machowski](https://twitter.com/Peter_Machowski) | 🟧⬜️ |  
 | ⚡️ | [AIBoostedHacks](https://twitter.com/AIBoostedHacks/status/1636345966247780353) | Revolutionizing productivity techniques using artificial intelligence | [@AIBoostedHacks](https://twitter.com/AIBoostedHacks) | 🟧⬜️ | 
 | 🌍 | [SylvanStride](https://twitter.com/rsfreitas/status/1637518178166112256) | Explore the world through AI-generated content| [@rsfreitas](https://twitter.com/rsfreitas) | 🟧⬜️ | 
-| 📝| [WordCrafters](https://twitter.com/jpcooooords/status/1637648385183485952?s=46&t=HLtUFyRoAvIn3wGK-KodWw) | AI-Powered Content Writing | [@jpcooooords](https://twitter.com/jpcooooords) | 🟧⬜️ |
 | 🧠 | [Second Brain OS](https://umairkamil.com/second-brain/) | Distill AI Tools, Content Strategy & Prompt | [@UmairKamil](https://twitter.com/UmairKamil) | 🟧⬜️ |
-| ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) | 🟧⬜️ |
 | 🔼 | [upskillgpt](http://upskillgpt.com/) |Empower Your Future: Upskill with AI and Share Your Success with the World | [@subhrajitdotme](https://twitter.com/subhrajitdotme) | 🟧⬜️ |
 | 🗺️ | [myGPTsherpa](https://twitter.com/f_lhuillery_) |Sharing LLM, AI & GPT insights to non English speakers | [@f_lhuillery_](https://twitter.com/f_lhuillery_) | 🟧⬜️ |
 | 🤖 | [The DevOps Droid](http://www.thedevopsdroid.com/) |AI-powered DevOps assistant | [@roncrivera](https://twitter.com/roncrivera) | 🟧⬜️ |
 | 💬 | [Promptlab](https://twitter.com/promptlabpro) | Create prompts like a pro| [@eliezerord](https://twitter.com/eliezerord) | 🟧⬜️ |
 | 🔑 | [Aidan Virtuoso](https://twitter.com/AidanVirtuoso/status/1637453107310350341) | Empowering entrepreneurs to harness artificial intelligence for growth, efficiency, and innovation. | [@AidanVirtuoso](https://twitter.com/AidanVirtuoso) | 🟧⬜️ | 
 | 💰 | [GPTbotwealth](https://gptbotwealth.com/) |Harness ChatGPT for Wealth, Success, and Growth | [@richGPT](https://twitter.com/richGPT) | 🟧⬜️ | 
-| 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
 | 💪 | [EndeavorDAO](https://endeavordao.com) |Building an investment & incubator DAO | [@EndeavorDAO](https://twitter.com/EndeavorDAO) | 🟧⬜️ |  
 | 🧑‍🔧 | [Hey Roger](https://woolen-parade-2f9.notion.site/Meet-Roger-Your-AI-Powered-Butler-6779e45c2eb040d88e67adff05338933) |Unlock the Mystery: The AI-Powered Mind-Reading Game | [@HeyRogerXYZ](https://twitter.com/HeyRogerXYZ) | 🟧⬜️ | 
 | 📊 | [Astronomik](https://astronomik.co/) |Empowering AI with quality data. | [@emergingtechguy](https://twitter.com/emergingtechguy) | 🟧⬜️ | 
@@ -264,8 +259,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | -- | ---| ------ | ------ | ------ | 
 | 🐦 | [TweetSphere](https://twitter.com/clbtoort/status/1637187196862996481) | Twitter Clone built by AI CEO | [@clbtoort](https://twitter.com/clbtoort) |🟧🟩 |
 |  🎱 | [Eightball.com](https://eightball.com/) | Your AI powered oracle | [@FollowRobJ](https://twitter.com/FollowRobJ) | 🟧⬜️ | 
-| 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
-| 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) | 🟧⬜️ | 
 | 🪩 | [Rave Resource](http://raveresource.com/) | Your Ultimate Harm Reduction, Festival Safety, and Conscious Party-Going Companion | [@Rave_Resource](https://twitter.com/Rave_Resource) | 🟧⬜️ |  
 | 🏄 | [BoardRiderPro](https://twitter.com/seanfmcdonnell/status/1636546133341118465) | It's like having a pro help you buy a board | [@seanfmcdonnell](https://twitter.com/seanfmcdonnell) | 🟧⬜️ | 
 | 🎷 | [VibeCheck](http://vibe-check.herokuapp.com/) | Check the vibe of anyone's texts | [@jenniferturliuk](https://twitter.com/jenniferturliuk) | 🟧⬜️ | 
@@ -279,6 +272,17 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🇯🇵 | [Kurozora](https://kurozora.app/) |Your one-stop shop for everything anime! | [@KurozoraApp](https://twitter.com/KurozoraApp) | 🟧⬜️ |
 | 💤 | [Dreamcore Tales](https://www.dreamcoretales.com) |AI-Powered Literary Immersion | [@businessmaven1](https://twitter.com/businessmaven1) | 🟧⬜️ |
 | 😍  | [Anime Entertainment Media](https://animeanonymous.org/) |Providing a community for anime enthusiasts | [@animeanonymous](https://twitter.com/animeanonymous) | 🟧⬜️ |
+
+
+### <a name="news"></a> 🗞️ News
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+| ⎯ | [The Bottom Line](https://www.thebottomline.ai/) |Weekly newsletter and community of SMB leaders embracing AI in their businesses| [@alanjboyd](https://twitter.com/alanjboyd) | 🟧⬜️ |
+| 📰 | [ViralGPT](https://twitter.com/viralgpt) | Your AI-powered source for the latest trends, news, and insights| [@viralgpt](https://twitter.com/viralgpt) | 🟧⬜️ | 
+| 📸 | [GalacticGram](https://galacticgram.com/) |Super Simple Space News | [@CosmcJon](https://twitter.com/CosmcJon) | 🟧⬜️ |
+| 🏎️ | [f1insider](https://twitter.com/maggsgpt/status/1637497408929005568) | F1 News and articles| [@maggsgpt](https://twitter.com/maggsgpt) | 🟧⬜️ | 
+| 📰 | [tinynews.ai](https://twitter.com/tinynews_ai) |Bespoke AI Newsletters | [@tinynews_ai](https://twitter.com/tinynews_ai) | 🟧⬜️ | 
+
 
 
 
@@ -313,6 +317,14 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 🧑‍💻 | [MIDSI](http://midsi.academy/) |Get clients for data engineering consulting | [@midsi](https://www.linkedin.com/company/midsi/) | 🟧⬜️ |
 | 🗄️ | [Deskwise](https://twitter.com/crappbrannigan/status/1639151037805391872?s=20) |Simplifying your workspace | [@crappbrannigan](https://twitter.com/crappbrannigan) | 🟧⬜️ |
 | 🦸 | [Superteam](https://getsuperteam.com/?l=en) |Enabling businesses with AI to run stellar Customer Service and Sales via WhatsApp, Instagram, Email, and iMessage | [@edumussali](https://twitter.com/edumussali) | 🟧⬜️ |
+
+### <a name="writing"></a> ✍️ Writing & Journalism
+|  | Name | Description | Co-Founder | Status | 
+| -- | ---| ------ | ------ | ------ | 
+|📔 | [DailyQuipper](https://dailyquipper.com/) | Giving new meaning to the death of journalism.| [@dailyquipper](https://twitter.com/dailyquipper) | 🟧⬜️ | 
+|✍️ | [Henshu.ai](https://www.henshu.ai/) | Transform your content from ordinary to extraordinary using our AI-powered editor| [@productive_mayt](https://twitter.com/productive_mayt) | 🟧⬜️ | 
+| 📝| [WordCrafters](https://twitter.com/jpcooooords/status/1637648385183485952?s=46&t=HLtUFyRoAvIn3wGK-KodWw) | AI-Powered Content Writing | [@jpcooooords](https://twitter.com/jpcooooords) | 🟧⬜️ |
+| ✍ | [CopyGeniusAI](https://twitter.com/AdAsteras/status/1636777241668620288) | Empowering Copywriting with AI Innovation| [@AdAsteras](https://twitter.com/AdAsteras) | 🟧⬜️ | 
 
 
 
@@ -371,8 +383,6 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 👷 | [Building & Growing](https://bit.ly/bgnbrianwongjh) | A community web3 enthusiasts, remote workers, creators and founders alike.| [@Brianwongjhh](https://twitter.com/Brianwongjhh) | 🟧⬜️ | 
 | 📉 | [SpeculateGPT](https://twitter.com/SpeculateGPT) | Using GPT to speculate on stock options| [@bzqzheng](https://twitter.com/bzqzheng) | 🟧⬜️ | 
 |🙋 | [Your Breast Guess](https://twitter.com/MrRise2) | Saving the world one guess at a time| [@MrRise2](https://twitter.com/MrRise2) | 🟧⬜️ | 
-|📔 | [DailyQuipper](https://dailyquipper.com/) | Giving new meaning to the death of journalism.| [@dailyquipper](https://twitter.com/dailyquipper) | 🟧⬜️ | 
-|✍️ | [Henshu.ai](https://www.henshu.ai/) | Transform your content from ordinary to extraordinary using our AI-powered editor| [@productive_mayt](https://twitter.com/productive_mayt) | 🟧⬜️ | 
 |💸 | [Moneybots](https://moneybotsblog.wordpress.com) | The AI Driven Path For Success| [@money_bots](https://twitter.com/money_bots) | 🟧⬜️ | 
 
 <br>
