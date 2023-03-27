@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 193
+> Current Total: 195
 
 > Total Money Makers: 27
 
@@ -169,7 +169,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | ☕️ | [Anti Cafe](https://cafeplusco.com) | Everything you don't expect from coffee place| [@cafeplusco](https://www.instagram.com/cafeplusco/) | 🟧⬜️ |
 | 🔪 | [Sustainable Chef](https://sustainablechef.store/) | Following and selling eco friendly kitchen appliances| [@sustainablechefofficial](https://instagram.com/sustainablechefofficial?igshid=N2JhNDIwYjc=) | 🟧⬜️ |
 | 🧑‍🍳 | [The AI Chef](https://twitter.com/The_AiChef) | An AI powered chef| [@Ochowongo](https://twitter.com/Ochowongo) | 🟧⬜️ |
-
+| 🍔 | [MidgardBurgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | Crafting delicious handmade burgers | [@midgardburgers](https://instagram.com/midgardburgers?igshid=OTJhZDVkZWE=) | 🟧⬜️ 
 
 
 
@@ -384,6 +384,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 | 📉 | [SpeculateGPT](https://twitter.com/SpeculateGPT) | Using GPT to speculate on stock options| [@bzqzheng](https://twitter.com/bzqzheng) | 🟧⬜️ | 
 |🙋 | [Your Breast Guess](https://twitter.com/MrRise2) | Saving the world one guess at a time| [@MrRise2](https://twitter.com/MrRise2) | 🟧⬜️ | 
 |💸 | [Moneybots](https://moneybotsblog.wordpress.com) | The AI Driven Path For Success| [@money_bots](https://twitter.com/money_bots) | 🟧⬜️ | 
+|🤤 | [SchwormAI](https://www.macherjek.at/) | We're checking facial expressions against drunken behaviour| [@macherjek](https://www.instagram.com/macherjek/) | 🟧⬜️ | 
 
 <br>
 <br>
