@@ -85,7 +85,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |  🪦 | Discontinued |
 
 
-> Current Total: 199
+> Current Total: 200
 
 > Total Money Makers: 27
 
@@ -390,6 +390,8 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 |🙋 | [Your Breast Guess](https://twitter.com/MrRise2) | Saving the world one guess at a time| [@MrRise2](https://twitter.com/MrRise2) | 🟧⬜️ | 
 |💸 | [Moneybots](https://moneybotsblog.wordpress.com) | The AI Driven Path For Success| [@money_bots](https://twitter.com/money_bots) | 🟧⬜️ | 
 |🤤 | [SchwormAI](https://www.macherjek.at/) | We're checking facial expressions against drunken behaviour| [@macherjek](https://www.instagram.com/macherjek/) | 🟧⬜️ | 
+| 🖥️| [DigiGenius](https://twitter.com/CarlosBorundaa) | Digital Presence in the Digital Age| [@CarlosBorundaa](https://www.instagram.com/CarlosBorundaa/) | 🟧⬜️ | 
+
 
 <br>
 <br>
