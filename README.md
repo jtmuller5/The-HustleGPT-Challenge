@@ -1,3 +1,12 @@
+# ⚠️ We've Moved! ⚠️
+
+As of 3/28/2023, we've moved the contents of this page to the new [AI Co-Founded website](https://aicofounded.framer.website/)! 
+
+I'd like to continue supporting the community of builders that have stepped up to the HustleGPT Challenge and its difficult to do everything I'd like in the confines of a GitHub repo. For more challenges, resources, blog posts, and a life beyond HustleGPT, check out the the new site!
+<br>
+<br>
+<br>
+
 # 🚀 The HustleGPT Challenge 🤖
 
 Curated list of HustleGPT endeavors.
