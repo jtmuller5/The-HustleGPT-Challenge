@@ -11,7 +11,7 @@ I'd like to continue supporting the community of builders that have stepped up t
 
 Curated list of HustleGPT endeavors.
 
-<a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
+<a href="https://app.youform.io/forms/mogwzry0"><img src="venture_button.png" ></a>
 <br>
 
 Don't forget to:
@@ -456,7 +456,7 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 # <a name="join"></a>🚀 Want to join the challenge?
 
-<a href="https://mtk5ui86b0e.typeform.com/to/IfUCraOv"><img src="venture_button.png" ></a>
+<a href="https://app.youform.io/forms/mogwzry0"><img src="venture_button.png" ></a>
 <br>
 <br>
 
