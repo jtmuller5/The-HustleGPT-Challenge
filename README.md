@@ -2,10 +2,12 @@
 
 As of 3/28/2023, we've moved the contents of this page to the new [AI Co-Founded website](https://aicofounded.com/)! 
 
-I'd like to continue supporting the community of builders that have stepped up to the HustleGPT Challenge and its difficult to do everything I'd like in the confines of a GitHub repo. For more challenges, resources, blog posts, and a life beyond HustleGPT, check out [aicofounded.com](https://aicofounded.com/)!
-<br>
-<br>
-<br>
+## Other Projects
+
+🕰️ [AI Twitter History](https://github.com/jtmuller5/AI-Twitter-History)
+
+🔎 [600+ AI Tools & Websites](https://chatcodetutor.gumroad.com/)
+
 
 # 🚀 The HustleGPT Challenge 🤖
 
