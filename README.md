@@ -6,7 +6,7 @@ As of 3/28/2023, we've moved the contents of this page to the new [AI Co-Founded
 
 🕰️ [AI Twitter History](https://github.com/jtmuller5/AI-Twitter-History)
 
-🔎 [600+ AI Tools & Websites](https://chatcodetutor.gumroad.com/)
+🔎 [600+ AI Tools & Websites](https://codeontherocks.gumroad.com/)
 
 
 # 🚀 The HustleGPT Challenge 🤖
@@ -73,9 +73,9 @@ The goal of the HustleGPT challenge is to build a business with an AI co-founder
 
 > Built with HustleGPT
 
-| [HustleGPT Companion Guide](https://chatcodetutor.gumroad.com/l/abqwfw)|
+| [HustleGPT Companion Guide](https://codeontherocks.gumroad.com/l/abqwfw)|
 |----- |
-|<a href="https://chatcodetutor.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
+|<a href="https://codeontherocks.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
 | Build a business with an AI co-founder| 
 
 # <a name="ventures"></a>💸 Ventures
