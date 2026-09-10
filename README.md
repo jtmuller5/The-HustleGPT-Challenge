@@ -1,17 +1,20 @@
-# ⚠️ We've Moved! ⚠️
+# 🚀 The HustleGPT Challenge 🤖
 
-As of 3/28/2023, we've moved the contents of this page to the new [AI Co-Founded website](https://aicofounded.com/)! 
+> **Archive note, September 2026.** This list stopped being updated in June 2023 and is
+> kept as a record of what people actually built during the HustleGPT run. The companion
+> site `aicofounded.com` is gone, and the links pointing at it have been removed.
+
+Curated list of HustleGPT endeavors.
+
+📘 **[The HustleGPT Companion Guide](https://sapidlabs.gumroad.com/l/abqwfw)** — the $10
+guide that came out of this repo.
 
 ## Other Projects
 
+🔎 [800+ AI Tools & Websites (Notion template)](https://sapidlabs.gumroad.com/l/nccpm)
+
 🕰️ [AI Twitter History](https://github.com/jtmuller5/AI-Twitter-History)
 
-🔎 [600+ AI Tools & Websites](https://codeontherocks.gumroad.com/)
-
-
-# 🚀 The HustleGPT Challenge 🤖
-
-Curated list of HustleGPT endeavors.
 
 <a href="https://app.youform.io/forms/mogwzry0"><img src="venture_button.png" ></a>
 <br>
@@ -19,8 +22,6 @@ Curated list of HustleGPT endeavors.
 Don't forget to:
 
 ⭐⭐⭐ Give this repo a star so it become the one-stop-shop for HustleGPT!
-
-🔖🔖🔖 Bookmark this page to check in an everyone's progress! 
 
 👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
 <br>
@@ -73,9 +74,9 @@ The goal of the HustleGPT challenge is to build a business with an AI co-founder
 
 > Built with HustleGPT
 
-| [HustleGPT Companion Guide](https://codeontherocks.gumroad.com/l/abqwfw)|
+| [HustleGPT Companion Guide](https://sapidlabs.gumroad.com/l/abqwfw)|
 |----- |
-|<a href="https://codeontherocks.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
+|<a href="https://sapidlabs.gumroad.com/l/abqwfw"><img src="https://public-files.gumroad.com/shi9wdznm0ms8wtz5d1utsz37tem" height="500"></a>|
 | Build a business with an AI co-founder| 
 
 # <a name="ventures"></a>💸 Ventures
