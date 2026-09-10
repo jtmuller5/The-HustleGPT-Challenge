@@ -7,7 +7,7 @@
 Curated list of HustleGPT endeavors.
 
 📘 **[The HustleGPT Companion Guide](https://sapidlabs.gumroad.com/l/abqwfw)** — the $10
-guide that came out of this repo. 800+ copies sold.
+guide that came out of this repo.
 
 ## Other Projects
 
