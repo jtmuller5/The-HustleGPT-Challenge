@@ -23,7 +23,6 @@ Don't forget to:
 
 ⭐⭐⭐ Give this repo a star so it become the one-stop-shop for HustleGPT!
 
-👉👉👉 [Follow me on Twitter @Banjoe__](https://twitter.com/Banjoe__)
 <br>
 <br>
 # Table of Contents
@@ -84,7 +83,6 @@ The goal of the HustleGPT challenge is to build a business with an AI co-founder
 >[Vote on your favorite ventures here](https://github.com/jtmuller5/The-HustleGPT-Challenge/discussions/categories/ventures)🗳️
   
 
-If you're participating and have made at least $1 from your hustle, reach out to [@Banjoe__](https://twitter.com/Banjoe__) on Twitter to get verified. 
 
 To switch your status block from ⬜️  --> 🟩 we will need proof of a single sale/donation (ex. screenshot, invoice, etc). Once you have been verified, your venture will be added to the [Ventures](https://github.com/jtmuller5/The-HustleGPT-Challenge/discussions/categories/ventures?discussions_q=is%3Aopen+category%3AVentures+sort%3Atop) list where the community can vote on it. 
 
@@ -481,16 +479,10 @@ To switch your status block from ⬜️  --> 🟩 we will need proof of a single
 
 
 
-[Twitter MegaThread](https://twitter.com/Banjoe__/status/1637846783521959937)
-<br>
-<br>
 # <a name="hype"></a>🔥 Follow the Hype
-
-🚀 Submit your Hustle to be added to the official [HustleGPT Twitter Community](https://twitter.com/i/communities/1639306177874886656)
 
 🐦 Follow the [Twitter list](https://twitter.com/i/lists/1637578882307039232?s=20), an ever-changing collection of all the folks participating in the challenge
 
-☀️ The daily [#HustleGPTDaily](https://twitter.com/search?q=%40Banjoe__%20%23HustleGPTDaily&src=typed_query) Twitter thread
 
 # <a name="support"></a>☕️ Support
 <a href="https://www.buymeacoffee.com/mullr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
